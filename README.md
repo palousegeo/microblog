@@ -1,2 +1,2 @@
 # microblog
-Theme for micro.blog
+Archive for micro.blog
