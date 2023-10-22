@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo-test.micro.blog/2023/10/21/shrooms.html",
+				"title": "Shrooms ",
+				"content_html": "<p>Experimenting with photo posting techniques.\n<img src=\"https://palousegeo-test.micro.blog/uploads/2023/79a800b27c.jpg\" alt=\"mushrooms\"></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Experimenting with photo posting techniques. \n![mushrooms](https://palousegeo-test.micro.blog/uploads/2023/79a800b27c.jpg)\n\n<img src=\"uploads/2023/79a800b27c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-10-21T21:11:00-07:00",
+				"url": "https://palousegeo-test.micro.blog/2023/10/21/shrooms.html"
+			},
+			{
 				"id": "http://palousegeo-test.micro.blog/2023/08/06/one-of-this.html",
 				
 				"content_html": "<p>One of this past Spring’s chicks has laid her first egg.</p>\n<!-- raw HTML omitted -->\n",
