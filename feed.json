@@ -9,9 +9,9 @@
 			{
 				"id": "http://palousegeo-test.micro.blog/2023/10/21/shrooms.html",
 				"title": "Shrooms ",
-				"content_html": "<p>Experimenting with photo posting techniques.\n<img src=\"https://palousegeo-test.micro.blog/uploads/2023/79a800b27c.jpg\" alt=\"mushrooms\"></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Experimenting with photo posting techniques. \n![mushrooms](https://palousegeo-test.micro.blog/uploads/2023/79a800b27c.jpg)\n\n<img src=\"uploads/2023/79a800b27c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-10-21T21:11:00-07:00",
+				"content_html": "<p>Experimenting with photo posting techniques.\n<img src=\"https://palousegeo-test.micro.blog/uploads/2023/79a800b27c.jpg\" alt=\"mushrooms\"></p>\n",
+				"content_text": "Experimenting with photo posting techniques. \n![mushrooms](https://palousegeo-test.micro.blog/uploads/2023/79a800b27c.jpg)\n\n",
+				"date_published": "2023-10-21T20:11:00-08:00",
 				"url": "https://palousegeo-test.micro.blog/2023/10/21/shrooms.html"
 			},
 			{
@@ -19,7 +19,7 @@
 				
 				"content_html": "<p>One of this past Spring’s chicks has laid her first egg.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "One of this past Spring’s chicks has laid her first egg.\n\n<img src=\"uploads/2023/ad84e211f8.jpg\" width=\"450\" height=\"600\" alt=\"First egg from a new hen.\">\n",
-				"date_published": "2023-08-06T19:01:48-07:00",
+				"date_published": "2023-08-06T18:01:48-08:00",
 				"url": "https://palousegeo-test.micro.blog/2023/08/06/one-of-this.html"
 			},
 			{
@@ -27,7 +27,7 @@
 				
 				"content_html": "<p>We did one of our favorite hikes along the Potlatch River.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "We did one of our favorite hikes along the Potlatch River.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Potlatch River in N. Idaho.\">\n",
-				"date_published": "2023-07-28T21:58:47-07:00",
+				"date_published": "2023-07-28T20:58:47-08:00",
 				"url": "https://palousegeo-test.micro.blog/2023/07/28/we-did-one.html"
 			},
 			{
@@ -35,7 +35,7 @@
 				
 				"content_html": "<p>Ms. Bean will often come find me when I am working in my study upstairs. Sometimes my wife will send her up to get me for some chore, but often she just comes up to see me. She demands an ear rub and then lies on the floor until I am finished.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ms. Bean will often come find me when I am working in my study upstairs. Sometimes my wife will send her up to get me for some chore, but often she just comes up to see me. She demands an ear rub and then lies on the floor until I am finished.\n\n<img src=\"uploads/2023/e3757a562a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-06T18:06:00-07:00",
+				"date_published": "2023-02-06T17:06:00-08:00",
 				"url": "https://palousegeo-test.micro.blog/2023/02/06/ms-bean-will.html"
 			},
 			{
@@ -43,7 +43,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780758274229\">The Pub Across the Pond</a> by Mary Carter 📚\nThis is a fun light Irish romance. It&rsquo;s not my usual genre, but I enjoyed it.</p>\n",
 				"content_text": "Finished reading: [The Pub Across the Pond](https://micro.blog/books/9780758274229) by Mary Carter 📚\r\nThis is a fun light Irish romance. It's not my usual genre, but I enjoyed it.\n",
-				"date_published": "2023-01-14T17:09:36-07:00",
+				"date_published": "2023-01-14T16:09:36-08:00",
 				"url": "https://palousegeo-test.micro.blog/2023/01/14/finished-reading-the.html"
 			},
 			{
@@ -51,7 +51,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781472251824\">Year of Wonder: Classical Music to Enjoy Day by Day</a> by Clemency Burton-Hill 📚</p>\n<p>My wife and I used this book to guide our listening each day after dinner. Be aware you need an account with Apple Music or Spotify to access the playlists.</p>\n",
 				"content_text": "Finished reading: [Year of Wonder: Classical Music to Enjoy Day by Day](https://micro.blog/books/9781472251824) by Clemency Burton-Hill 📚\r\n\r\nMy wife and I used this book to guide our listening each day after dinner. Be aware you need an account with Apple Music or Spotify to access the playlists.\n",
-				"date_published": "2023-01-04T10:29:02-07:00",
+				"date_published": "2023-01-04T09:29:02-08:00",
 				"url": "https://palousegeo-test.micro.blog/2023/01/04/finished-reading-year.html"
 			},
 			{
@@ -59,7 +59,7 @@
 				
 				"content_html": "<p>This is a test post to the test microblog.</p>\n",
 				"content_text": "This is a test post to the test microblog.\n",
-				"date_published": "2023-01-04T09:43:17-07:00",
+				"date_published": "2023-01-04T08:43:17-08:00",
 				"url": "https://palousegeo-test.micro.blog/2023/01/04/this-is-a.html"
 			},
 			{
@@ -67,7 +67,7 @@
 				
 				"content_html": "<p>Welcome to your test blog! You can create new posts here to test theme and design changes.</p>\n",
 				"content_text": "Welcome to your test blog! You can create new posts here to test theme and design changes.\n",
-				"date_published": "2022-12-09T10:57:45-07:00",
+				"date_published": "2022-12-09T09:57:45-08:00",
 				"url": "https://palousegeo-test.micro.blog/2022/12/09/welcome-to-your.html"
 			},
 			{
