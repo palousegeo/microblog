@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2024/01/14/it-is-one.html",
+				
+				"content_html": "<p>It is one of those gray winter mornings where I can&rsquo;t tell where the earth ends and the sky begins.</p>\n",
+				"content_text": "It is one of those gray winter mornings where I can't tell where the earth ends and the sky begins.\n",
+				"date_published": "2024-01-14T08:00:17-08:00",
+				"url": "https://palousegeo.com/2024/01/14/it-is-one.html"
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2024/01/13/its-f-at.html",
+				
+				"content_html": "<p>It&rsquo;s -22° F at our place this morning. That&rsquo;s the coldest we can remember.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It's -22° F at our place this morning. That's the coldest we can remember.\n\n<img src=\"uploads/2024/e89b6b68ad.jpg\" width=\"600\" height=\"450\" alt=\"Snowy day\">\n",
+				"date_published": "2024-01-13T09:04:57-08:00",
+				"url": "https://palousegeo.com/2024/01/13/its-f-at.html"
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2023/12/10/we-went-to.html",
 				
 				"content_html": "<p>We went to a production of &ldquo;A Christmas Story&rdquo; by the Lewiston (Idaho) Civic Theater. The music, choreography, and acting were excellent.</p>\n",
