@@ -7,13 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2024/02/21/finished-listening-to.html",
+				
+				"content_html": "<p>Finished listening to: <a href=\"https://micro.blog/books/9780061793394\">The Outlaw Demon Wails</a> by Kim Harrison 📚🎧</p>\n",
+				"content_text": "Finished listening to: [The Outlaw Demon Wails](https://micro.blog/books/9780061793394) by Kim Harrison 📚🎧\n",
+				"date_published": "2024-02-21T21:53:28-08:00",
+				"url": "https://palousegeo.com/2024/02/21/finished-listening-to.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2024/02/17/finished-reading-this.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525539025\">This Time Tomorrow</a> by Emma Straub 📚</p>\n",
+				"content_text": "Finished reading: [This Time Tomorrow](https://micro.blog/books/9780525539025) by Emma Straub 📚\n",
+				"date_published": "2024-02-17T21:48:47-08:00",
+				"url": "https://palousegeo.com/2024/02/17/finished-reading-this.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2024/02/15/simple-jig-for.html",
 				"title": "Simple jig for hand sawing",
 				"content_html": "<p>Yesterday, I was hand-sawing some plywood panels when I had an idea for stabilizing the task. I started the cut and then clamped a scrap of wood across the cut. This stabilized the board, made it easier to cut straight , and there is no splintering at the end of the cut. I&rsquo;m sure this is not an original idea, but I&rsquo;m happy to have discovered it. 🪚🔨</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Yesterday, I was hand-sawing some plywood panels when I had an idea for stabilizing the task. I started the cut and then clamped a scrap of wood across the cut. This stabilized the board, made it easier to cut straight , and there is no splintering at the end of the cut. I'm sure this is not an original idea, but I'm happy to have discovered it. 🪚🔨\n\n<img src=\"uploads/2024/img-2095.jpeg\" width=\"450\" height=\"600\" alt=\"Hand saw in board with stabilizing jig\">\n",
 				"date_published": "2024-02-15T10:24:38-08:00",
 				"url": "https://palousegeo.com/2024/02/15/simple-jig-for.html",
-				"tags": ["Longer Posts"]
+				"tags": ["Longer Posts","Woodworking "]
 			},
 			{
 				"id": "http://palousegeo.micro.blog/2024/02/09/finished-listening-to.html",
@@ -31,7 +49,7 @@
 				"content_text": "I received the vintage rabbet plane I purchased on eBay today. I just had to sharpen the iron. I spent the afternoon teaching myself how to use it.🪚🔨\n",
 				"date_published": "2024-02-05T18:00:49-08:00",
 				"url": "https://palousegeo.com/2024/02/05/i-received-the.html",
-				"tags": ["Quick thoughts"]
+				"tags": ["Quick thoughts","Woodworking "]
 			},
 			{
 				"id": "http://palousegeo.micro.blog/2024/02/04/finished-reading-starter.html",
