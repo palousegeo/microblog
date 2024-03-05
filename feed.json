@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2024/03/04/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316233293\">The Portable Door</a> by Tom Holt 📚</p>\n",
+				"content_text": "Finished reading: [The Portable Door](https://micro.blog/books/9780316233293) by Tom Holt 📚\n",
+				"date_published": "2024-03-04T21:53:11-08:00",
+				"url": "https://palousegeo.com/2024/03/04/finished-reading-the.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2024/02/28/finished-listening-to.html",
 				
 				"content_html": "<p>Finished listening to: <a href=\"https://micro.blog/books/9780061138010\">White Witch, Black Curse (The Hollows, #7)</a> by Kim Harrison 📚🎧</p>\n",
@@ -154,7 +163,7 @@
 				"id": "http://palousegeo.micro.blog/2024/01/13/its-f-at.html",
 				
 				"content_html": "<p>It&rsquo;s -22° F at our place this morning. That&rsquo;s the coldest we can remember.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's -22° F at our place this morning. That's the coldest we can remember.\n\n<img src=\"uploads/2024/e89b6b68ad.jpg\" width=\"600\" height=\"450\" alt=\"Snowy day\">\n",
+				"content_text": "It's -22° F at our place this morning. That's the coldest we can remember.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2024/e89b6b68ad.jpg\" width=\"600\" height=\"450\" alt=\"Snowy day\">\n",
 				"date_published": "2024-01-13T09:04:57-08:00",
 				"url": "https://palousegeo.com/2024/01/13/its-f-at.html",
 				"tags": ["Quick thoughts"]
@@ -208,7 +217,7 @@
 				"id": "http://palousegeo.micro.blog/2023/10/29/as-i-was.html",
 				
 				"content_html": "<p>As I was doing the morning chores I had the full moon setting in one direction,</p>\n<!-- raw HTML omitted -->\n<p>and sunrise in the opposite direction.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "As I was doing the morning chores I had the full moon setting in one direction,\n\n<img src=\"uploads/2023/5ec7b54d-aed1-407f-9fc1-fa6d26707283.jpg\" width=\"400\" height=\"400\" alt=\"moonset\">\n\nand sunrise in the opposite direction.\n\n<img src=\"uploads/2023/27015d20-f1b7-4523-97cc-5879e4ce65a1.jpg\" width=\"400\" height=\"400\" alt=\"sunrise\">\n",
+				"content_text": "As I was doing the morning chores I had the full moon setting in one direction,\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/5ec7b54d-aed1-407f-9fc1-fa6d26707283.jpg\" width=\"400\" height=\"400\" alt=\"moonset\">\n\nand sunrise in the opposite direction.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/27015d20-f1b7-4523-97cc-5879e4ce65a1.jpg\" width=\"400\" height=\"400\" alt=\"sunrise\">\n",
 				"date_published": "2023-10-29T07:14:58-08:00",
 				"url": "https://palousegeo.com/2023/10/29/as-i-was.html",
 				"tags": ["Quick thoughts"]
@@ -217,7 +226,7 @@
 				"id": "http://palousegeo.micro.blog/2023/10/27/it-looks-like.html",
 				
 				"content_html": "<p>It looks like lawn mowing season is over.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It looks like lawn mowing season is over.\n\n<img src=\"uploads/2023/32c134ece1.jpg\" width=\"450\" height=\"600\" alt=\"Snowy back yard\">\n",
+				"content_text": "It looks like lawn mowing season is over.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/32c134ece1.jpg\" width=\"450\" height=\"600\" alt=\"Snowy back yard\">\n",
 				"date_published": "2023-10-27T06:24:36-08:00",
 				"url": "https://palousegeo.com/2023/10/27/it-looks-like.html",
 				"tags": ["Quick thoughts"]
@@ -226,7 +235,7 @@
 				"id": "http://palousegeo.micro.blog/2023/10/22/a-peaceful-scene.html",
 				
 				"content_html": "<p>A peaceful scene out our front window this morning.\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "A peaceful scene out our front window this morning.\r\n<img src=\"uploads/2023/img-2034.jpeg\" width=\"600\" height=\"600\" alt=\"Peaceful morning scene with a horse\">\n",
+				"content_text": "A peaceful scene out our front window this morning.\r\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-2034.jpeg\" width=\"600\" height=\"600\" alt=\"Peaceful morning scene with a horse\">\n",
 				"date_published": "2023-10-22T06:36:22-08:00",
 				"url": "https://palousegeo.com/2023/10/22/a-peaceful-scene.html",
 				"tags": ["Quick thoughts"]
@@ -235,7 +244,7 @@
 				"id": "http://palousegeo.micro.blog/2023/10/21/a-pair-of.html",
 				
 				"content_html": "<p>A pair of nighttime plum aficionados in our orchard.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A pair of nighttime plum aficionados in our orchard. \n\n<img src=\"uploads/2023/7914e407fa8a46bc87ab55f226fb5af9.jpg\" width=\"600\" height=\"566\" alt=\"2 raccoons at night\">\n",
+				"content_text": "A pair of nighttime plum aficionados in our orchard. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/7914e407fa8a46bc87ab55f226fb5af9.jpg\" width=\"600\" height=\"566\" alt=\"2 raccoons at night\">\n",
 				"date_published": "2023-10-21T12:11:30-08:00",
 				"url": "https://palousegeo.com/2023/10/21/a-pair-of.html",
 				"tags": ["Quick thoughts"]
@@ -244,7 +253,7 @@
 				"id": "http://palousegeo.micro.blog/2023/10/20/nice-sunset-tonight.html",
 				
 				"content_html": "<p>Nice sunset tonight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice sunset tonight.\n\n<img src=\"uploads/2023/befd74a6b1.jpg\" width=\"600\" height=\"600\" alt=\"Sunset\">\n",
+				"content_text": "Nice sunset tonight.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/befd74a6b1.jpg\" width=\"600\" height=\"600\" alt=\"Sunset\">\n",
 				"date_published": "2023-10-20T18:04:39-08:00",
 				"url": "https://palousegeo.com/2023/10/20/nice-sunset-tonight.html",
 				"tags": ["Quick thoughts"]
@@ -253,7 +262,7 @@
 				"id": "http://palousegeo.micro.blog/2023/10/20/gopher-vs-human.html",
 				
 				"content_html": "<p>Gopher vs. human. The eternal contest.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Gopher vs. human. The eternal contest.\n\n<img src=\"uploads/2023/5ad025f17b.jpg\" width=\"600\" height=\"600\" alt=\"Gopher mound in pasture\">\n",
+				"content_text": "Gopher vs. human. The eternal contest.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/5ad025f17b.jpg\" width=\"600\" height=\"600\" alt=\"Gopher mound in pasture\">\n",
 				"date_published": "2023-10-20T10:57:56-08:00",
 				"url": "https://palousegeo.com/2023/10/20/gopher-vs-human.html",
 				"tags": ["Quick thoughts"]
@@ -271,7 +280,7 @@
 				"id": "http://palousegeo.micro.blog/2023/10/09/a-farm-mystery.html",
 				"title": "A Farm Mystery",
 				"content_html": "<!-- raw HTML omitted -->\n<p>We have a small flock of chickens, 15 hens and a rooster. The birds have a large fenced yard and a spacious coop. A month ago I noticed that one of the new hens we had purchased as a chick this year was missing. My wife and I searched the birds’ pen carefully, and then the area around the pen. Occasionally a chicken will fly over the fence, but they never go far. Our search was unsuccessful. We concluded the hen had fallen prey to a predator. This isn&rsquo;t common but happens occasionally. In the past we have had problems with raccoons and weasels. We also have coyotes, and had watched a hawk make an aborted attack this past Spring. Attacks by any predator usually leave an explosion of feathers, which was missing in this case. We were disappointed as the hen had just started to lay, and produced eggs that were a dark brown. She was one of a trio of chicks we purchased this year. Even after they were big enough to be released into the general population, they hung out as a cohort separate from the rest of the flock. It was sad to see the trio reduced to a pair.</p>\n<p>Several weeks went by and I was emptying the compost bucket into pen when I noticed the prodigal hen had returned. She seemed no worse for her absence, and immediately started contributing her dark brown eggs to the daily production. We are at a loss to come up with a logical explanation for her disappearance. Chickens are not solitary animals, and it seems unlikely that she could have been nearby without our notice. We are glad to have her back, and will have to let it go at that.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2023/09ddbf4a0d.jpeg\" width=\"450\" height=\"450\" alt=\"3 chickens\">\n\nWe have a small flock of chickens, 15 hens and a rooster. The birds have a large fenced yard and a spacious coop. A month ago I noticed that one of the new hens we had purchased as a chick this year was missing. My wife and I searched the birds’ pen carefully, and then the area around the pen. Occasionally a chicken will fly over the fence, but they never go far. Our search was unsuccessful. We concluded the hen had fallen prey to a predator. This isn't common but happens occasionally. In the past we have had problems with raccoons and weasels. We also have coyotes, and had watched a hawk make an aborted attack this past Spring. Attacks by any predator usually leave an explosion of feathers, which was missing in this case. We were disappointed as the hen had just started to lay, and produced eggs that were a dark brown. She was one of a trio of chicks we purchased this year. Even after they were big enough to be released into the general population, they hung out as a cohort separate from the rest of the flock. It was sad to see the trio reduced to a pair.\n\nSeveral weeks went by and I was emptying the compost bucket into pen when I noticed the prodigal hen had returned. She seemed no worse for her absence, and immediately started contributing her dark brown eggs to the daily production. We are at a loss to come up with a logical explanation for her disappearance. Chickens are not solitary animals, and it seems unlikely that she could have been nearby without our notice. We are glad to have her back, and will have to let it go at that.\n\n<img src=\"uploads/2023/2b2efe778d.jpeg\" width=\"450\" height=\"450\" alt=\"Dark brown egg\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/69605/2023/09ddbf4a0d.jpeg\" width=\"450\" height=\"450\" alt=\"3 chickens\">\n\nWe have a small flock of chickens, 15 hens and a rooster. The birds have a large fenced yard and a spacious coop. A month ago I noticed that one of the new hens we had purchased as a chick this year was missing. My wife and I searched the birds’ pen carefully, and then the area around the pen. Occasionally a chicken will fly over the fence, but they never go far. Our search was unsuccessful. We concluded the hen had fallen prey to a predator. This isn't common but happens occasionally. In the past we have had problems with raccoons and weasels. We also have coyotes, and had watched a hawk make an aborted attack this past Spring. Attacks by any predator usually leave an explosion of feathers, which was missing in this case. We were disappointed as the hen had just started to lay, and produced eggs that were a dark brown. She was one of a trio of chicks we purchased this year. Even after they were big enough to be released into the general population, they hung out as a cohort separate from the rest of the flock. It was sad to see the trio reduced to a pair.\n\nSeveral weeks went by and I was emptying the compost bucket into pen when I noticed the prodigal hen had returned. She seemed no worse for her absence, and immediately started contributing her dark brown eggs to the daily production. We are at a loss to come up with a logical explanation for her disappearance. Chickens are not solitary animals, and it seems unlikely that she could have been nearby without our notice. We are glad to have her back, and will have to let it go at that.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/2b2efe778d.jpeg\" width=\"450\" height=\"450\" alt=\"Dark brown egg\">\n",
 				"date_published": "2023-10-09T19:07:00-08:00",
 				"url": "https://palousegeo.com/2023/10/09/a-farm-mystery.html",
 				"tags": ["Longer Posts"]
@@ -280,7 +289,7 @@
 				"id": "http://palousegeo.micro.blog/2023/10/06/a-warm-october.html",
 				
 				"content_html": "<p>A warm October evening brings out clouds of woolly aphids.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A warm October evening brings out clouds of woolly aphids.\n\n<img src=\"uploads/2023/d5c10a4f9b.jpg\" width=\"450\" height=\"600\" alt=\"Aphid swarm\">\n",
+				"content_text": "A warm October evening brings out clouds of woolly aphids.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/d5c10a4f9b.jpg\" width=\"450\" height=\"600\" alt=\"Aphid swarm\">\n",
 				"date_published": "2023-10-06T17:10:55-08:00",
 				"url": "https://palousegeo.com/2023/10/06/a-warm-october.html",
 				"tags": ["Quick thoughts"]
@@ -298,7 +307,7 @@
 				"id": "http://palousegeo.micro.blog/2023/10/04/good-morning.html",
 				
 				"content_html": "<p>Good morning!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Good morning!\n\n<img src=\"uploads/2023/d0129395ad.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise\">\n",
+				"content_text": "Good morning!\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/d0129395ad.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise\">\n",
 				"date_published": "2023-10-04T06:33:58-08:00",
 				"url": "https://palousegeo.com/2023/10/04/good-morning.html",
 				"tags": ["Quick thoughts"]
@@ -307,7 +316,7 @@
 				"id": "http://palousegeo.micro.blog/2023/10/02/i-ordered-a.html",
 				
 				"content_html": "<p>I ordered a trail camera and set it up in the orchard. We&rsquo;re curious to see who has been munching on the fallen fruit at night.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I ordered a trail camera and set it up in the orchard. We're curious to see who has been munching on the fallen fruit at night.\n\n<img src=\"uploads/2023/626f19e265.jpg\" width=\"450\" height=\"600\" alt=\"Trail camera attached to a tree.\">\n",
+				"content_text": "I ordered a trail camera and set it up in the orchard. We're curious to see who has been munching on the fallen fruit at night.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/626f19e265.jpg\" width=\"450\" height=\"600\" alt=\"Trail camera attached to a tree.\">\n",
 				"date_published": "2023-10-02T12:37:11-08:00",
 				"url": "https://palousegeo.com/2023/10/02/i-ordered-a.html",
 				"tags": ["Quick thoughts"]
@@ -325,7 +334,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/30/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 30 of September Photoblogging Challenge is <strong>treasure</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 30 of September Photoblogging Challenge is **treasure**. \n\n<img src=\"uploads/2023/1af2d8493e.jpg\" width=\"450\" height=\"600\" alt=\"Full bookcase \">\n",
+				"content_text": "The prompt for day 30 of September Photoblogging Challenge is **treasure**. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/1af2d8493e.jpg\" width=\"450\" height=\"600\" alt=\"Full bookcase \">\n",
 				"date_published": "2023-09-30T19:41:15-08:00",
 				"url": "https://palousegeo.com/2023/09/30/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -334,7 +343,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/29/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 29 of September Photoblogging Challenge is <strong>contrast</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 29 of September Photoblogging Challenge is **contrast**. \n\n<img src=\"uploads/2023/5b5a466b01.jpg\" width=\"450\" height=\"600\" alt=\"Red and yellow tomatos\">\n",
+				"content_text": "The prompt for day 29 of September Photoblogging Challenge is **contrast**. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/5b5a466b01.jpg\" width=\"450\" height=\"600\" alt=\"Red and yellow tomatos\">\n",
 				"date_published": "2023-09-29T09:26:25-08:00",
 				"url": "https://palousegeo.com/2023/09/29/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -343,7 +352,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/28/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 28 of September Photoblogging Challenge is <strong>workout</strong>. After the workout.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 28 of September Photoblogging Challenge is **workout**. After the workout. \n\n<img src=\"uploads/2023/img-1621.jpeg\" width=\"450\" height=\"600\" alt=\"Tired dogs\">\n",
+				"content_text": "The prompt for day 28 of September Photoblogging Challenge is **workout**. After the workout. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1621.jpeg\" width=\"450\" height=\"600\" alt=\"Tired dogs\">\n",
 				"date_published": "2023-09-28T18:39:53-08:00",
 				"url": "https://palousegeo.com/2023/09/28/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -352,7 +361,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/27/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 27 of the September Photoblogging Challenge is <strong>embrace</strong>. (rugby scrum)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 27 of the September Photoblogging Challenge is **embrace**. (rugby scrum)\n\n<img src=\"uploads/2023/img-1944.jpeg\" width=\"450\" height=\"600\" alt=\"Rugby scrum \">\n",
+				"content_text": "The prompt for day 27 of the September Photoblogging Challenge is **embrace**. (rugby scrum)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1944.jpeg\" width=\"450\" height=\"600\" alt=\"Rugby scrum \">\n",
 				"date_published": "2023-09-27T12:30:20-08:00",
 				"url": "https://palousegeo.com/2023/09/27/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -361,7 +370,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/26/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 26 of the September Photoblogging Challenge is <strong>beverage</strong>. This is a current favorite.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 26 of the September Photoblogging Challenge is **beverage**. This is a current favorite.\n\n<img src=\"uploads/2023/img-1987.jpeg\" width=\"450\" height=\"600\" alt=\"Beer\">\n",
+				"content_text": "The prompt for day 26 of the September Photoblogging Challenge is **beverage**. This is a current favorite.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1987.jpeg\" width=\"450\" height=\"600\" alt=\"Beer\">\n",
 				"date_published": "2023-09-26T17:01:00-08:00",
 				"url": "https://palousegeo.com/2023/09/26/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -370,7 +379,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/25/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 25 of the September Photoblogging Challenge is <strong>flare</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 25 of the September Photoblogging Challenge is **flare**.\n\n<img src=\"uploads/2023/img-1338.jpeg\" width=\"450\" height=\"600\" alt=\"Sunlight through tree\">\n",
+				"content_text": "The prompt for day 25 of the September Photoblogging Challenge is **flare**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1338.jpeg\" width=\"450\" height=\"600\" alt=\"Sunlight through tree\">\n",
 				"date_published": "2023-09-25T07:43:33-08:00",
 				"url": "https://palousegeo.com/2023/09/25/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -379,7 +388,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/24/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 24 of the September Photoblogging Challenge is <strong>belt</strong> sander.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 24 of the September Photoblogging Challenge is **belt** sander. \n\n<img src=\"uploads/2023/img-1970.jpeg\" width=\"450\" height=\"600\" alt=\"Belt sander \">\n",
+				"content_text": "The prompt for day 24 of the September Photoblogging Challenge is **belt** sander. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1970.jpeg\" width=\"450\" height=\"600\" alt=\"Belt sander \">\n",
 				"date_published": "2023-09-24T16:32:08-08:00",
 				"url": "https://palousegeo.com/2023/09/24/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -388,7 +397,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/23/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 23 of the September Photoblogging Challenge is <strong>a day in the life</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 23 of the September Photoblogging Challenge is **a day in the life**.\n\n<img src=\"uploads/2023/img-1838.jpeg\" width=\"450\" height=\"600\" alt=\"Woman and dogs at the beach.\">\n",
+				"content_text": "The prompt for day 23 of the September Photoblogging Challenge is **a day in the life**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1838.jpeg\" width=\"450\" height=\"600\" alt=\"Woman and dogs at the beach.\">\n",
 				"date_published": "2023-09-23T07:38:47-08:00",
 				"url": "https://palousegeo.com/2023/09/23/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -397,7 +406,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/22/the-employees-of.html",
 				
 				"content_html": "<p>The employees of Rodent Control Inc. taking a well deserved break.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The employees of Rodent Control Inc. taking a well deserved break.\n\n<img src=\"uploads/2023/img-1969.jpeg\" width=\"450\" height=\"600\" alt=\"Three cats resting\">\n",
+				"content_text": "The employees of Rodent Control Inc. taking a well deserved break.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1969.jpeg\" width=\"450\" height=\"600\" alt=\"Three cats resting\">\n",
 				"date_published": "2023-09-22T17:14:01-08:00",
 				"url": "https://palousegeo.com/2023/09/22/the-employees-of.html",
 				"tags": ["Quick thoughts"]
@@ -406,7 +415,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/22/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 22 of the September Photoblogging Challenge is <strong>road</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 22 of the September Photoblogging Challenge is **road**.\n\n<img src=\"uploads/2023/img-1314.jpeg\" width=\"450\" height=\"600\" alt=\"Road bordered by tall trees.\">\n",
+				"content_text": "The prompt for day 22 of the September Photoblogging Challenge is **road**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1314.jpeg\" width=\"450\" height=\"600\" alt=\"Road bordered by tall trees.\">\n",
 				"date_published": "2023-09-22T12:50:17-08:00",
 				"url": "https://palousegeo.com/2023/09/22/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -415,7 +424,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/21/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 21 of the September Photoblogging Challenge is <strong>fall</strong>. A fall hike on the breaks above the Snake River.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 21 of the September Photoblogging Challenge is **fall**. A fall hike on the breaks above the Snake River.\n\n<img src=\"uploads/2023/img-1388.jpeg\" width=\"600\" height=\"450\" alt=\"Fall landscape\">\n",
+				"content_text": "The prompt for day 21 of the September Photoblogging Challenge is **fall**. A fall hike on the breaks above the Snake River.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1388.jpeg\" width=\"600\" height=\"450\" alt=\"Fall landscape\">\n",
 				"date_published": "2023-09-21T10:57:24-08:00",
 				"url": "https://palousegeo.com/2023/09/21/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -424,7 +433,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/20/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 20 of the September Photoblogging Challenge is <strong>disruption</strong>. This friendly young buck caused a bit of disruption around our place a few years ago.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 20 of the September Photoblogging Challenge is **disruption**. This friendly young buck caused a bit of disruption around our place a few years ago.\n\n<img src=\"uploads/2023/img-0038.jpeg\" width=\"450\" height=\"600\" alt=\"Deer and man\">\n",
+				"content_text": "The prompt for day 20 of the September Photoblogging Challenge is **disruption**. This friendly young buck caused a bit of disruption around our place a few years ago.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-0038.jpeg\" width=\"450\" height=\"600\" alt=\"Deer and man\">\n",
 				"date_published": "2023-09-20T09:25:30-08:00",
 				"url": "https://palousegeo.com/2023/09/20/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -433,7 +442,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/19/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 19 of the September Photoblogging Challengeg is <strong>edge</strong>. Latest woodworking project.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 19 of the September Photoblogging Challengeg is **edge**. Latest woodworking project. \n\n<img src=\"uploads/2023/img-1962.jpeg\" width=\"600\" height=\"600\" alt=\"Wood block\">\n",
+				"content_text": "The prompt for day 19 of the September Photoblogging Challengeg is **edge**. Latest woodworking project. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1962.jpeg\" width=\"600\" height=\"600\" alt=\"Wood block\">\n",
 				"date_published": "2023-09-19T17:01:18-08:00",
 				"url": "https://palousegeo.com/2023/09/19/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -442,7 +451,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/18/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 18 of the September Photoblogging Challengeg is <strong>fabric</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 18 of the September Photoblogging Challengeg is **fabric**.\n\n<img src=\"uploads/2023/img-1953.jpeg\" width=\"450\" height=\"600\" alt=\"Colorful rug\">\n",
+				"content_text": "The prompt for day 18 of the September Photoblogging Challengeg is **fabric**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1953.jpeg\" width=\"450\" height=\"600\" alt=\"Colorful rug\">\n",
 				"date_published": "2023-09-18T11:28:51-08:00",
 				"url": "https://palousegeo.com/2023/09/18/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -451,7 +460,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/17/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 17 of the September Photoblogging Challengeg is <strong>intense</strong>. The competition for the ball is intense.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 17 of the September Photoblogging Challengeg is **intense**. The competition for the ball is intense.\n\n<img src=\"uploads/2023/img-1952.jpeg\" width=\"450\" height=\"600\" alt=\"Two border collies\">\n",
+				"content_text": "The prompt for day 17 of the September Photoblogging Challengeg is **intense**. The competition for the ball is intense.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1952.jpeg\" width=\"450\" height=\"600\" alt=\"Two border collies\">\n",
 				"date_published": "2023-09-17T17:28:33-08:00",
 				"url": "https://palousegeo.com/2023/09/17/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -460,7 +469,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/16/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 16 of the September Photoblogging Challenge is <strong>oof!</strong>. Saturday morning rugby.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 16 of the September Photoblogging Challenge is **oof!**. Saturday morning rugby. \n\n<img src=\"uploads/2023/img-1945.jpeg\" width=\"450\" height=\"600\" alt=\"Rugby\">\n",
+				"content_text": "The prompt for day 16 of the September Photoblogging Challenge is **oof!**. Saturday morning rugby. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1945.jpeg\" width=\"450\" height=\"600\" alt=\"Rugby\">\n",
 				"date_published": "2023-09-16T10:10:16-08:00",
 				"url": "https://palousegeo.com/2023/09/16/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -469,7 +478,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/15/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 15 of the September Photoblogging Challenge is <strong>red</strong>. My favorite red object.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 15 of the September Photoblogging Challenge is **red**. My favorite red object. \n\n<img src=\"uploads/2023/img-1941.jpeg\" width=\"450\" height=\"600\" alt=\"Bicycle \">\n",
+				"content_text": "The prompt for day 15 of the September Photoblogging Challenge is **red**. My favorite red object. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1941.jpeg\" width=\"450\" height=\"600\" alt=\"Bicycle \">\n",
 				"date_published": "2023-09-15T17:31:58-08:00",
 				"url": "https://palousegeo.com/2023/09/15/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -478,7 +487,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/14/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 14 of the September Photoblogging Challenge is <strong>statue</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 14 of the September Photoblogging Challenge is **statue**.\n\n<img src=\"uploads/2023/img-1895.jpeg\" width=\"450\" height=\"600\" alt=\"Sasquatch statue\">\n",
+				"content_text": "The prompt for day 14 of the September Photoblogging Challenge is **statue**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1895.jpeg\" width=\"450\" height=\"600\" alt=\"Sasquatch statue\">\n",
 				"date_published": "2023-09-14T07:07:32-08:00",
 				"url": "https://palousegeo.com/2023/09/14/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -487,7 +496,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/13/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 13 of the September Photoblogging Challenge is <strong>glowing</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 13 of the September Photoblogging Challenge is **glowing**.\n\n<img src=\"uploads/2023/img-1693.jpeg\" width=\"600\" height=\"450\" alt=\"Sunset\">\n",
+				"content_text": "The prompt for day 13 of the September Photoblogging Challenge is **glowing**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1693.jpeg\" width=\"600\" height=\"450\" alt=\"Sunset\">\n",
 				"date_published": "2023-09-13T20:43:54-08:00",
 				"url": "https://palousegeo.com/2023/09/13/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -496,7 +505,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/12/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 12 of the September Photoblogging Challenge is <strong>panic</strong>. Smoke!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 12 of the September Photoblogging Challenge is **panic**. Smoke!\n\n<img src=\"uploads/2023/img-1130.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The prompt for day 12 of the September Photoblogging Challenge is **panic**. Smoke!\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1130.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-12T08:26:26-08:00",
 				"url": "https://palousegeo.com/2023/09/12/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -505,7 +514,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/11/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 11 of the September Photoblogging Challenge is <strong>retrospect</strong>. \nThe end of the pear harvest for this year.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 11 of the September Photoblogging Challenge is **retrospect**. \r\nThe end of the pear harvest for this year.\n\n<img src=\"uploads/2023/img-1930.jpeg\" width=\"450\" height=\"600\" alt=\"Pear tree and harvested pears\">\n",
+				"content_text": "The prompt for day 11 of the September Photoblogging Challenge is **retrospect**. \r\nThe end of the pear harvest for this year.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1930.jpeg\" width=\"450\" height=\"600\" alt=\"Pear tree and harvested pears\">\n",
 				"date_published": "2023-09-11T17:14:18-08:00",
 				"url": "https://palousegeo.com/2023/09/11/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -514,7 +523,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/10/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 10 of the September Photoblogging Challenge is <strong>cycle</strong>. \nOld bikes accumulate in this corner of the barn.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 10 of the September Photoblogging Challenge is **cycle**. \r\nOld bikes accumulate in this corner of the barn.\n\n<img src=\"uploads/2023/img-1928.jpeg\" width=\"450\" height=\"600\" alt=\"Bicycles\">\n",
+				"content_text": "The prompt for day 10 of the September Photoblogging Challenge is **cycle**. \r\nOld bikes accumulate in this corner of the barn.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1928.jpeg\" width=\"450\" height=\"600\" alt=\"Bicycles\">\n",
 				"date_published": "2023-09-10T17:23:27-08:00",
 				"url": "https://palousegeo.com/2023/09/10/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -523,7 +532,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/09/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 9 of the September Photoblogging Challenge is <strong>language</strong>. \nHiking along an old railroad line in E. Washington the railroad mileage markers denote the distance from Chicago</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 9 of the September Photoblogging Challenge is **language**. \r\nHiking along an old railroad line in E. Washington the railroad mileage markers denote the distance from Chicago\n\n<img src=\"uploads/2023/img-1326.jpeg\" width=\"450\" height=\"600\" alt=\"Railroad mileage marker\">\n",
+				"content_text": "The prompt for day 9 of the September Photoblogging Challenge is **language**. \r\nHiking along an old railroad line in E. Washington the railroad mileage markers denote the distance from Chicago\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1326.jpeg\" width=\"450\" height=\"600\" alt=\"Railroad mileage marker\">\n",
 				"date_published": "2023-09-09T08:07:44-08:00",
 				"url": "https://palousegeo.com/2023/09/09/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -532,7 +541,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/08/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 8 of the September Photoblogging Challenge is <strong>yonder</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 8 of the September Photoblogging Challenge is **yonder**. \n\n<img src=\"uploads/2023/img-1762.jpeg\" width=\"600\" height=\"450\" alt=\"Mountains across a lake\">\n",
+				"content_text": "The prompt for day 8 of the September Photoblogging Challenge is **yonder**. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1762.jpeg\" width=\"600\" height=\"450\" alt=\"Mountains across a lake\">\n",
 				"date_published": "2023-09-08T11:07:59-08:00",
 				"url": "https://palousegeo.com/2023/09/08/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -541,7 +550,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/07/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 7 of the September Photoblogging Challenge is <strong>panorama</strong>. The Palouse Prairie in SE Washington State.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 7 of the September Photoblogging Challenge is **panorama**. The Palouse Prairie in SE Washington State.\n\n<img src=\"uploads/2023/img-1924.jpeg\" width=\"600\" height=\"222\" alt=\"Palouse Prairie\">\n",
+				"content_text": "The prompt for day 7 of the September Photoblogging Challenge is **panorama**. The Palouse Prairie in SE Washington State.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1924.jpeg\" width=\"600\" height=\"222\" alt=\"Palouse Prairie\">\n",
 				"date_published": "2023-09-07T13:18:40-08:00",
 				"url": "https://palousegeo.com/2023/09/07/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -550,7 +559,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/06/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 6 of the September Photoblogging Challenge is <strong>well</strong>. (This is an old water well on our farm.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 6 of the September Photoblogging Challenge is **well**. (This is an old water well on our farm.)\n\n<img src=\"uploads/2023/img-1922.jpeg\" width=\"450\" height=\"600\" alt=\"Old water well\">\n",
+				"content_text": "The prompt for day 6 of the September Photoblogging Challenge is **well**. (This is an old water well on our farm.)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1922.jpeg\" width=\"450\" height=\"600\" alt=\"Old water well\">\n",
 				"date_published": "2023-09-06T09:18:12-08:00",
 				"url": "https://palousegeo.com/2023/09/06/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -559,7 +568,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/05/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 5 of the September Photoblogging Challenge is <strong>forest</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 5 of the September Photoblogging Challenge is **forest**.\n\n<img src=\"uploads/2023/img-1893.jpeg\" width=\"600\" height=\"450\" alt=\"Forest\">\n",
+				"content_text": "The prompt for day 5 of the September Photoblogging Challenge is **forest**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1893.jpeg\" width=\"600\" height=\"450\" alt=\"Forest\">\n",
 				"date_published": "2023-09-05T11:01:02-08:00",
 				"url": "https://palousegeo.com/2023/09/05/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -568,7 +577,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/04/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 4 of the September Photoblogging Challenge is <strong>orange</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 4 of the September Photoblogging Challenge is **orange**.\n\n<img src=\"uploads/2023/0f10e6d15f.jpg\" width=\"450\" height=\"600\" alt=\"Border collie with an orange ball\">\n",
+				"content_text": "The prompt for day 4 of the September Photoblogging Challenge is **orange**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/0f10e6d15f.jpg\" width=\"450\" height=\"600\" alt=\"Border collie with an orange ball\">\n",
 				"date_published": "2023-09-04T17:34:51-08:00",
 				"url": "https://palousegeo.com/2023/09/04/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -577,7 +586,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/03/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 3 of the September Photoblogging Challenge is <strong>precious</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 3 of the September Photoblogging Challenge is **precious**.\n\n<img src=\"uploads/2023/951fe5337a.jpg\" width=\"450\" height=\"600\" alt=\"Dog with toy\">\n",
+				"content_text": "The prompt for day 3 of the September Photoblogging Challenge is **precious**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/951fe5337a.jpg\" width=\"450\" height=\"600\" alt=\"Dog with toy\">\n",
 				"date_published": "2023-09-03T06:33:54-08:00",
 				"url": "https://palousegeo.com/2023/09/03/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -586,7 +595,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/02/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 2 of the Photoblogging Challenge is <strong>buildup</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 2 of the Photoblogging Challenge is **buildup**.\n\n<img src=\"uploads/2023/ff55e0ed06.jpg\" width=\"450\" height=\"600\" alt=\"Gopher mound\">\n",
+				"content_text": "The prompt for day 2 of the Photoblogging Challenge is **buildup**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/ff55e0ed06.jpg\" width=\"450\" height=\"600\" alt=\"Gopher mound\">\n",
 				"date_published": "2023-09-02T17:54:07-08:00",
 				"url": "https://palousegeo.com/2023/09/02/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -595,7 +604,7 @@
 				"id": "http://palousegeo.micro.blog/2023/09/01/the-prompt-for.html",
 				
 				"content_html": "<p>The prompt for day 1 of the September Photoblogging Challenge is <strong>abstract</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The prompt for day 1 of the September Photoblogging Challenge is **abstract**. \n\n<img src=\"uploads/2023/49b2d82301.jpg\" width=\"450\" height=\"600\" alt=\"Lines and textures\">\n",
+				"content_text": "The prompt for day 1 of the September Photoblogging Challenge is **abstract**. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/49b2d82301.jpg\" width=\"450\" height=\"600\" alt=\"Lines and textures\">\n",
 				"date_published": "2023-09-01T13:02:07-08:00",
 				"url": "https://palousegeo.com/2023/09/01/the-prompt-for.html",
 				"tags": ["Quick thoughts"]
@@ -604,7 +613,7 @@
 				"id": "http://palousegeo.micro.blog/2023/08/28/the-red-pear.html",
 				
 				"content_html": "<p>The red pear harvest is going well.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The red pear harvest is going well.\n\n<img src=\"uploads/2023/dd57258194.jpg\" width=\"450\" height=\"600\" alt=\"Boxes of red pears\">\n",
+				"content_text": "The red pear harvest is going well.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/dd57258194.jpg\" width=\"450\" height=\"600\" alt=\"Boxes of red pears\">\n",
 				"date_published": "2023-08-28T17:48:02-08:00",
 				"url": "https://palousegeo.com/2023/08/28/the-red-pear.html",
 				"tags": ["Quick thoughts"]
@@ -613,7 +622,7 @@
 				"id": "http://palousegeo.micro.blog/2023/08/06/one-of-this.html",
 				
 				"content_html": "<p>One of this past Spring’s new chicks has laid her first egg.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of this past Spring’s new chicks has laid her first egg.\n\n<img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"First egg from a new hen.\">\n",
+				"content_text": "One of this past Spring’s new chicks has laid her first egg.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"First egg from a new hen.\">\n",
 				"date_published": "2023-08-06T18:04:01-08:00",
 				"url": "https://palousegeo.com/2023/08/06/one-of-this.html",
 				"tags": ["Quick thoughts"]
@@ -631,7 +640,7 @@
 				"id": "http://palousegeo.micro.blog/2023/06/08/lots-of-lillies.html",
 				
 				"content_html": "<p>Lots of lillies.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lots of lillies.\r\n\n\n<img src=\"uploads/2023/95611d6d32.jpeg\" width=\"450\" height=\"600\" alt=\"Lillies\">\n",
+				"content_text": "Lots of lillies.\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/95611d6d32.jpeg\" width=\"450\" height=\"600\" alt=\"Lillies\">\n",
 				"date_published": "2023-06-08T18:55:33-08:00",
 				"url": "https://palousegeo.com/2023/06/08/lots-of-lillies.html",
 				"tags": ["Quick thoughts"]
@@ -640,7 +649,7 @@
 				"id": "http://palousegeo.micro.blog/2023/06/08/kayaking-with-my.html",
 				
 				"content_html": "<p>Kayaking with my wife  and our dogs on Lake Winchester in northern Idaho.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kayaking with my wife  and our dogs on Lake Winchester in northern Idaho.\n\n<img src=\"uploads/2023/0928376313.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
+				"content_text": "Kayaking with my wife  and our dogs on Lake Winchester in northern Idaho.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/0928376313.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
 				"date_published": "2023-06-08T07:42:29-08:00",
 				"url": "https://palousegeo.com/2023/06/08/kayaking-with-my.html",
 				"tags": ["Quick thoughts"]
@@ -658,7 +667,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/26/a-nice-instrument.html",
 				
 				"content_html": "<p>A nice <strong>instrument</strong> and piece of furniture.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A nice **instrument** and piece of furniture.\n\n<img src=\"uploads/2023/d665166f96.jpg\" width=\"600\" height=\"599\" alt=\"piano\">\n",
+				"content_text": "A nice **instrument** and piece of furniture.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/d665166f96.jpg\" width=\"600\" height=\"599\" alt=\"piano\">\n",
 				"date_published": "2023-03-26T15:22:26-08:00",
 				"url": "https://palousegeo.com/2023/03/26/a-nice-instrument.html",
 				"tags": ["Quick thoughts"]
@@ -667,7 +676,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/25/the-spice-cabinet.html",
 				
 				"content_html": "<p>The <strong>spice</strong> cabinet.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The **spice** cabinet.\n\n<img src=\"uploads/2023/c863cd3b15.jpg\" width=\"600\" height=\"600\" alt=\"spices\">\n",
+				"content_text": "The **spice** cabinet.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/c863cd3b15.jpg\" width=\"600\" height=\"600\" alt=\"spices\">\n",
 				"date_published": "2023-03-25T17:17:18-08:00",
 				"url": "https://palousegeo.com/2023/03/25/the-spice-cabinet.html",
 				"tags": ["Quick thoughts"]
@@ -676,7 +685,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/24/our-rooster-and.html",
 				
 				"content_html": "<p>Our rooster and a few of his <strong>court</strong>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our rooster and a few of his **court**. \n\n<img src=\"uploads/2023/a0a474b46a.jpg\" width=\"450\" height=\"600\" alt=\"Chickens\">\n",
+				"content_text": "Our rooster and a few of his **court**. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/a0a474b46a.jpg\" width=\"450\" height=\"600\" alt=\"Chickens\">\n",
 				"date_published": "2023-03-24T17:27:42-08:00",
 				"url": "https://palousegeo.com/2023/03/24/our-rooster-and.html",
 				"tags": ["Quick thoughts"]
@@ -685,7 +694,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/23/theres-a-good.html",
 				
 				"content_html": "<p>There’s a good <strong>chance</strong> that it will start raining in a few minutes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There’s a good **chance** that it will start raining in a few minutes. \n\n<img src=\"uploads/2023/c2f831345e.jpg\" width=\"600\" height=\"599\" alt=\"rain clouds\">\n",
+				"content_text": "There’s a good **chance** that it will start raining in a few minutes. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/c2f831345e.jpg\" width=\"600\" height=\"599\" alt=\"rain clouds\">\n",
 				"date_published": "2023-03-23T06:46:22-08:00",
 				"url": "https://palousegeo.com/2023/03/23/theres-a-good.html",
 				"tags": ["Quick thoughts"]
@@ -703,7 +712,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/22/i-found-this.html",
 				
 				"content_html": "<p>I found this <strong>insect</strong> in the garden last summer, and took a photo for identification with iNaturalist. It’s a type of burying beetle.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I found this **insect** in the garden last summer, and took a photo for identification with iNaturalist. It’s a type of burying beetle. \n\n<img src=\"uploads/2023/cfff85385c.jpg\" width=\"450\" height=\"600\" alt=\"Burying beetle\">\n",
+				"content_text": "I found this **insect** in the garden last summer, and took a photo for identification with iNaturalist. It’s a type of burying beetle. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/cfff85385c.jpg\" width=\"450\" height=\"600\" alt=\"Burying beetle\">\n",
 				"date_published": "2023-03-22T09:00:01-08:00",
 				"url": "https://palousegeo.com/2023/03/22/i-found-this.html",
 				"tags": ["Quick thoughts"]
@@ -712,7 +721,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/21/one-year-during.html",
 				
 				"content_html": "<p>One year during the holidays we put together this <strong>tiny</strong> model bookstore. We had fun, but it took a lot of time.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One year during the holidays we put together this **tiny** model bookstore. We had fun, but it took a lot of time.\n\n<img src=\"uploads/2023/38c03f8883.jpg\" width=\"600\" height=\"600\" alt=\"model bookstore\">\n",
+				"content_text": "One year during the holidays we put together this **tiny** model bookstore. We had fun, but it took a lot of time.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/38c03f8883.jpg\" width=\"600\" height=\"600\" alt=\"model bookstore\">\n",
 				"date_published": "2023-03-21T15:08:21-08:00",
 				"url": "https://palousegeo.com/2023/03/21/one-year-during.html",
 				"tags": ["Quick thoughts"]
@@ -730,7 +739,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/20/our-home-has.html",
 				
 				"content_html": "<p>Our home has lots of <strong>houseplant</strong>s.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our home has lots of **houseplant**s.\n\n<img src=\"uploads/2023/b6b337dd4a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Our home has lots of **houseplant**s.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/b6b337dd4a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-20T08:12:28-08:00",
 				"url": "https://palousegeo.com/2023/03/20/our-home-has.html",
 				"tags": ["Quick thoughts"]
@@ -739,7 +748,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/19/this-analog-watch.html",
 				
 				"content_html": "<p>This <strong>analog</strong> watch was given to me by my beloved wife back when she was my girlfriend - about 45 years ago.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This **analog** watch was given to me by my beloved wife back when she was my girlfriend - about 45 years ago. \n\n<img src=\"uploads/2023/58a067be95.jpg\" width=\"450\" height=\"600\" alt=\"Analog wristwatch\">\n",
+				"content_text": "This **analog** watch was given to me by my beloved wife back when she was my girlfriend - about 45 years ago. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/58a067be95.jpg\" width=\"450\" height=\"600\" alt=\"Analog wristwatch\">\n",
 				"date_published": "2023-03-19T09:42:11-08:00",
 				"url": "https://palousegeo.com/2023/03/19/this-analog-watch.html",
 				"tags": ["Quick thoughts"]
@@ -748,7 +757,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/18/it-may-not.html",
 				
 				"content_html": "<p>It may not seem like much now, but once the weather warms this becomes the central location of our lives. It is where we eat and drink, and our days begin and end. We have never called it a <strong>portico</strong>, but it seems to fit the definition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It may not seem like much now, but once the weather warms this becomes the central location of our lives. It is where we eat and drink, and our days begin and end. We have never called it a **portico**, but it seems to fit the definition.\n\n<img src=\"uploads/2023/c2ab67a98e.jpg\" width=\"599\" height=\"600\" alt=\"portico\">\n",
+				"content_text": "It may not seem like much now, but once the weather warms this becomes the central location of our lives. It is where we eat and drink, and our days begin and end. We have never called it a **portico**, but it seems to fit the definition.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/c2ab67a98e.jpg\" width=\"599\" height=\"600\" alt=\"portico\">\n",
 				"date_published": "2023-03-18T17:20:33-08:00",
 				"url": "https://palousegeo.com/2023/03/18/it-may-not.html",
 				"tags": ["Quick thoughts"]
@@ -757,7 +766,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/17/early-march-photoblogging.html",
 				
 				"content_html": "<p>📷 <strong>early</strong> <a href=\"https://challenges.micro.blog\">March Photoblogging Challenge</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 **early** [March Photoblogging Challenge](https://challenges.micro.blog)\n\n<img src=\"uploads/2023/8fe5f8c17c.jpg\" width=\"600\" height=\"599\" alt=\"country sunrise\">\n",
+				"content_text": "📷 **early** [March Photoblogging Challenge](https://challenges.micro.blog)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/8fe5f8c17c.jpg\" width=\"600\" height=\"599\" alt=\"country sunrise\">\n",
 				"date_published": "2023-03-17T18:44:55-08:00",
 				"url": "https://palousegeo.com/2023/03/17/early-march-photoblogging.html",
 				"tags": ["Quick thoughts"]
@@ -766,7 +775,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/16/road-march-microblogging.html",
 				
 				"content_html": "<p>📷 <strong>road</strong> <a href=\"https://challenges.micro.blog\">March Microblogging Challenge</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 **road** [March Microblogging Challenge](https://challenges.micro.blog)\n\n<img src=\"uploads/2023/b2e7b823d7.jpg\" width=\"600\" height=\"600\" alt=\"snowy road\">\n",
+				"content_text": "📷 **road** [March Microblogging Challenge](https://challenges.micro.blog)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/b2e7b823d7.jpg\" width=\"600\" height=\"600\" alt=\"snowy road\">\n",
 				"date_published": "2023-03-16T20:08:31-08:00",
 				"url": "https://palousegeo.com/2023/03/16/road-march-microblogging.html",
 				"tags": ["Quick thoughts"]
@@ -775,7 +784,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/15/patience-march-photoblogging.html",
 				
 				"content_html": "<p>📷 <strong>Patience</strong> <a href=\"https://challenges.micro.blog\">March Photoblogging Challenge</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 **Patience** [March Photoblogging Challenge](https://challenges.micro.blog)\n\n<img src=\"uploads/2023/771e112906.jpg\" width=\"600\" height=\"600\" alt=\"2 border collies\">\n",
+				"content_text": "📷 **Patience** [March Photoblogging Challenge](https://challenges.micro.blog)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/771e112906.jpg\" width=\"600\" height=\"600\" alt=\"2 border collies\">\n",
 				"date_published": "2023-03-15T16:10:29-08:00",
 				"url": "https://palousegeo.com/2023/03/15/patience-march-photoblogging.html",
 				"tags": ["Quick thoughts"]
@@ -784,7 +793,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/14/horizon-march-photoblogging.html",
 				
 				"content_html": "<p>📷 <strong>horizon</strong> <a href=\"https://challenges.micro.blog\">March Photoblogging Challenge</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 **horizon** [March Photoblogging Challenge](https://challenges.micro.blog)\n\n<img src=\"uploads/2023/35631d8bb3.jpg\" width=\"600\" height=\"600\" alt=\"sunset\">\n",
+				"content_text": "📷 **horizon** [March Photoblogging Challenge](https://challenges.micro.blog)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/35631d8bb3.jpg\" width=\"600\" height=\"600\" alt=\"sunset\">\n",
 				"date_published": "2023-03-14T11:45:54-08:00",
 				"url": "https://palousegeo.com/2023/03/14/horizon-march-photoblogging.html",
 				"tags": ["Quick thoughts"]
@@ -793,7 +802,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/13/waiting-for-a.html",
 				
 				"content_html": "<p>📷 Waiting for a <strong>connection</strong>. <a href=\"https://challenges.micro.blog\">March Photoblogging Challenge</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Waiting for a **connection**. [March Photoblogging Challenge](https://challenges.micro.blog)\n\n<img src=\"uploads/2023/a6fb1023b4.jpg\" width=\"450\" height=\"600\" alt=\"Power ports on devices \">\n",
+				"content_text": "📷 Waiting for a **connection**. [March Photoblogging Challenge](https://challenges.micro.blog)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/a6fb1023b4.jpg\" width=\"450\" height=\"600\" alt=\"Power ports on devices \">\n",
 				"date_published": "2023-03-13T09:39:36-08:00",
 				"url": "https://palousegeo.com/2023/03/13/waiting-for-a.html",
 				"tags": ["Quick thoughts"]
@@ -802,7 +811,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/12/shiny-this-is.html",
 				
 				"content_html": "<p>📷 <strong>shiny</strong> This is a bowling trophy awarded to an ancestor in the 19th century. Years ago we would lend it to a local congregation to use in their communion service.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 **shiny** This is a bowling trophy awarded to an ancestor in the 19th century. Years ago we would lend it to a local congregation to use in their communion service.\n\n<img src=\"uploads/2023/6390eda09c.jpg\" width=\"599\" height=\"600\" alt=\"bowling trophy \">\n",
+				"content_text": "📷 **shiny** This is a bowling trophy awarded to an ancestor in the 19th century. Years ago we would lend it to a local congregation to use in their communion service.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/6390eda09c.jpg\" width=\"599\" height=\"600\" alt=\"bowling trophy \">\n",
 				"date_published": "2023-03-12T16:17:28-08:00",
 				"url": "https://palousegeo.com/2023/03/12/shiny-this-is.html",
 				"tags": ["Quick thoughts"]
@@ -811,7 +820,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/11/i-made-several.html",
 				
 				"content_html": "<p>📷 I made several of these <strong>gimcrack</strong> yard lights five years ago from some wood scraps and cheap solar lights. About half of them still work. <a href=\"https://challenges.Micro.blog\">March Photoblogging Challenge </a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 I made several of these **gimcrack** yard lights five years ago from some wood scraps and cheap solar lights. About half of them still work. [March Photoblogging Challenge ](https://challenges.Micro.blog) \n\n<img src=\"uploads/2023/94469a6eec.jpg\" width=\"600\" height=\"600\" alt=\"solar lights\">\n",
+				"content_text": "📷 I made several of these **gimcrack** yard lights five years ago from some wood scraps and cheap solar lights. About half of them still work. [March Photoblogging Challenge ](https://challenges.Micro.blog) \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/94469a6eec.jpg\" width=\"600\" height=\"600\" alt=\"solar lights\">\n",
 				"date_published": "2023-03-11T13:58:50-08:00",
 				"url": "https://palousegeo.com/2023/03/11/i-made-several.html",
 				"tags": ["Quick thoughts"]
@@ -820,7 +829,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/10/my-daily-ritual.html",
 				
 				"content_html": "<p>📷 My daily <strong>ritual</strong>. <a href=\"https://challenges.micro.blog/\">March Photoblogging Challenge</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 My daily **ritual**. [March Photoblogging Challenge](https://challenges.micro.blog/)\n\n<img src=\"uploads/2023/1dc47a3f15.jpg\" width=\"599\" height=\"600\" alt=\"coffee setup\">\n",
+				"content_text": "📷 My daily **ritual**. [March Photoblogging Challenge](https://challenges.micro.blog/)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/1dc47a3f15.jpg\" width=\"599\" height=\"600\" alt=\"coffee setup\">\n",
 				"date_published": "2023-03-10T09:37:09-08:00",
 				"url": "https://palousegeo.com/2023/03/10/my-daily-ritual.html",
 				"tags": ["Quick thoughts"]
@@ -829,7 +838,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/09/together-march-photoblogging.html",
 				
 				"content_html": "<p>📷 <strong>Together</strong> <a href=\"https://challenges.micro.blog/\">March Photoblogging Challenge</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 **Together** [March Photoblogging Challenge](https://challenges.micro.blog/)\n\n<img src=\"uploads/2023/6d924cff97.jpg\" width=\"600\" height=\"600\" alt=\"dog and cat\">\n",
+				"content_text": "📷 **Together** [March Photoblogging Challenge](https://challenges.micro.blog/)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/6d924cff97.jpg\" width=\"600\" height=\"600\" alt=\"dog and cat\">\n",
 				"date_published": "2023-03-09T08:42:05-08:00",
 				"url": "https://palousegeo.com/2023/03/09/together-march-photoblogging.html",
 				"tags": ["Quick thoughts"]
@@ -838,7 +847,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/08/from-a-walk.html",
 				
 				"content_html": "<p>📷 From a <strong>walk</strong> my wife and I did last summer along the Washington-Idaho border.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 From a **walk** my wife and I did last summer along the Washington-Idaho border. \n\n<img src=\"uploads/2023/47fc081a07.jpg\" width=\"600\" height=\"450\" alt=\"Forest landscape \">\n",
+				"content_text": "📷 From a **walk** my wife and I did last summer along the Washington-Idaho border. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/47fc081a07.jpg\" width=\"600\" height=\"450\" alt=\"Forest landscape \">\n",
 				"date_published": "2023-03-08T08:39:44-08:00",
 				"url": "https://palousegeo.com/2023/03/08/from-a-walk.html",
 				"tags": ["Quick thoughts"]
@@ -847,7 +856,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/07/whole-march-photoblogging.html",
 				
 				"content_html": "<p>📷 <strong>Whole</strong> <a href=\"https://challenges.micro.blog/\">March Photoblogging Challenge</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 **Whole** [March Photoblogging Challenge](https://challenges.micro.blog/)\n\n<img src=\"uploads/2023/9eadb4f620.jpg\" width=\"600\" height=\"477\" alt=\"\">\n",
+				"content_text": "📷 **Whole** [March Photoblogging Challenge](https://challenges.micro.blog/)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/9eadb4f620.jpg\" width=\"600\" height=\"477\" alt=\"\">\n",
 				"date_published": "2023-03-07T09:33:28-08:00",
 				"url": "https://palousegeo.com/2023/03/07/whole-march-photoblogging.html",
 				"tags": ["Quick thoughts"]
@@ -856,7 +865,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/06/the-gardening-season.html",
 				
 				"content_html": "<p>The 2023 gardening season has begun with a tray of pepper varieties. 🌶️ 🫑</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The 2023 gardening season has begun with a tray of pepper varieties. 🌶️ 🫑\n\n<img src=\"uploads/2023/c5911a3ca9.jpg\" width=\"600\" height=\"600\" alt=\"indoor plant stand\">\n",
+				"content_text": "The 2023 gardening season has begun with a tray of pepper varieties. 🌶️ 🫑\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/c5911a3ca9.jpg\" width=\"600\" height=\"600\" alt=\"indoor plant stand\">\n",
 				"date_published": "2023-03-06T10:04:00-08:00",
 				"url": "https://palousegeo.com/2023/03/06/the-gardening-season.html",
 				"tags": ["Quick thoughts"]
@@ -865,7 +874,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/06/old-time-domestic.html",
 				
 				"content_html": "<p>📷 Old time domestic <strong>engineering</strong> <a href=\"https://challenges.micro.blog/\">March Photoblogging Challenge </a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Old time domestic **engineering** [March Photoblogging Challenge ](https://challenges.micro.blog/)\n\n<img src=\"uploads/2023/9d11c37d2e.jpg\" width=\"600\" height=\"600\" alt=\"bottom of an old treadle sewing machine\">\n",
+				"content_text": "📷 Old time domestic **engineering** [March Photoblogging Challenge ](https://challenges.micro.blog/)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/9d11c37d2e.jpg\" width=\"600\" height=\"600\" alt=\"bottom of an old treadle sewing machine\">\n",
 				"date_published": "2023-03-06T09:27:10-08:00",
 				"url": "https://palousegeo.com/2023/03/06/old-time-domestic.html",
 				"tags": ["Quick thoughts"]
@@ -874,7 +883,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/05/kitchen-tile-march.html",
 				
 				"content_html": "<p>📷 Kitchen <strong>tile</strong> <a href=\"https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html\">March Photoblogging challenge </a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Kitchen **tile** [March Photoblogging challenge ](https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html)\n\n<img src=\"uploads/2023/cab19342be.jpg\" width=\"600\" height=\"600\" alt=\"Kitchen tile\">\n",
+				"content_text": "📷 Kitchen **tile** [March Photoblogging challenge ](https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/cab19342be.jpg\" width=\"600\" height=\"600\" alt=\"Kitchen tile\">\n",
 				"date_published": "2023-03-05T14:17:12-08:00",
 				"url": "https://palousegeo.com/2023/03/05/kitchen-tile-march.html",
 				"tags": ["Quick thoughts"]
@@ -883,7 +892,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/04/114245.html",
 				
 				"content_html": "<p>📷 <strong>Zip</strong> tie on a gate next to praying mantis eggs. <a href=\"https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html\">March Photoblogging Challenge </a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 **Zip** tie on a gate next to praying mantis eggs. [March Photoblogging Challenge ](https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html)\n\n<img src=\"uploads/2023/0e76a9780f.jpg\" width=\"600\" height=\"600\" alt=\"Zip tie on a gate\">\n",
+				"content_text": "📷 **Zip** tie on a gate next to praying mantis eggs. [March Photoblogging Challenge ](https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/0e76a9780f.jpg\" width=\"600\" height=\"600\" alt=\"Zip tie on a gate\">\n",
 				"date_published": "2023-03-04T11:42:45-08:00",
 				"url": "https://palousegeo.com/2023/03/04/114245.html",
 				"tags": ["Quick thoughts"]
@@ -892,7 +901,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/03/solitude-this-is.html",
 				
 				"content_html": "<p>📷 Solitude. This is a favorite reading spot. <a href=\"https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html\">March Photoblogging Challenge </a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Solitude. This is a favorite reading spot. [March Photoblogging Challenge ](https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html)\n\n<img src=\"uploads/2023/5a82459b36.jpg\" width=\"600\" height=\"600\" alt=\"rocking chair in a reading nook \">\n",
+				"content_text": "📷 Solitude. This is a favorite reading spot. [March Photoblogging Challenge ](https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/5a82459b36.jpg\" width=\"600\" height=\"600\" alt=\"rocking chair in a reading nook \">\n",
 				"date_published": "2023-03-03T09:52:53-08:00",
 				"url": "https://palousegeo.com/2023/03/03/solitude-this-is.html",
 				"tags": ["Quick thoughts"]
@@ -901,7 +910,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/02/weather-microblog-march.html",
 				
 				"content_html": "<p>📷 Weather <a href=\"https://challenges.micro.blog/\">Micro.blog March Photoblogging Challenge</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Weather [Micro.blog March Photoblogging Challenge](https://challenges.micro.blog/)\n\n<img src=\"uploads/2023/df1e2500a2.jpg\" width=\"600\" height=\"599\" alt=\"a patch of sunlight on the snow\">\n",
+				"content_text": "📷 Weather [Micro.blog March Photoblogging Challenge](https://challenges.micro.blog/)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/df1e2500a2.jpg\" width=\"600\" height=\"599\" alt=\"a patch of sunlight on the snow\">\n",
 				"date_published": "2023-03-02T08:05:06-08:00",
 				"url": "https://palousegeo.com/2023/03/02/weather-microblog-march.html",
 				"tags": ["Quick thoughts"]
@@ -910,7 +919,7 @@
 				"id": "http://palousegeo.micro.blog/2023/03/01/the-chickens-are.html",
 				
 				"content_html": "<p>The chickens are secure. <a href=\"https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html\">March Photoblogging Challenge</a>🐓</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The chickens are secure. [March Photoblogging Challenge](https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html)🐓\n\n<img src=\"uploads/2023/72fb6b55a7.jpg\" width=\"600\" height=\"600\" alt=\"fence surrounding the chicken pen\">\n",
+				"content_text": "The chickens are secure. [March Photoblogging Challenge](https://challenges.micro.blog/2023/02/28/march-photoblogging-challenge.html)🐓\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/72fb6b55a7.jpg\" width=\"600\" height=\"600\" alt=\"fence surrounding the chicken pen\">\n",
 				"date_published": "2023-03-01T08:18:42-08:00",
 				"url": "https://palousegeo.com/2023/03/01/the-chickens-are.html",
 				"tags": ["Quick thoughts"]
@@ -928,7 +937,7 @@
 				"id": "http://palousegeo.micro.blog/2023/02/21/during-the-winter.html",
 				
 				"content_html": "<p>During the winter we have a food court for the birds. I&rsquo;m glad I filled the feeders before the snow started.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "During the winter we have a food court for the birds. I'm glad I filled the feeders before the snow started.\n\n<img src=\"uploads/2023/41085f1076.jpg\" width=\"600\" height=\"600\" alt=\"lots of birds at feeders\">\n",
+				"content_text": "During the winter we have a food court for the birds. I'm glad I filled the feeders before the snow started.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/41085f1076.jpg\" width=\"600\" height=\"600\" alt=\"lots of birds at feeders\">\n",
 				"date_published": "2023-02-21T16:35:46-08:00",
 				"url": "https://palousegeo.com/2023/02/21/during-the-winter.html",
 				"tags": ["Quick thoughts"]
@@ -955,7 +964,7 @@
 				"id": "http://palousegeo.micro.blog/2023/02/09/the-farm-cats.html",
 				
 				"content_html": "<p>The farm cats like it when we park a warm car in the garage in winter.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The farm cats like it when we park a warm car in the garage in winter.\n\n<img src=\"uploads/2023/8740c2924d.jpg\" width=\"600\" height=\"450\" alt=\"Cats warming themselves on a car hood\">\n",
+				"content_text": "The farm cats like it when we park a warm car in the garage in winter.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/8740c2924d.jpg\" width=\"600\" height=\"450\" alt=\"Cats warming themselves on a car hood\">\n",
 				"date_published": "2023-02-09T22:08:05-08:00",
 				"url": "https://palousegeo.com/2023/02/09/the-farm-cats.html",
 				"tags": ["Quick thoughts"]
@@ -964,7 +973,7 @@
 				"id": "http://palousegeo.micro.blog/2023/02/09/we-set-out.html",
 				
 				"content_html": "<p>We set out some of last season&rsquo;s apples for the birds. Yesterday they were gone in several hours. House finches, starlings, and red-wing blackbirds like them best.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We set out some of last season's apples for the birds. Yesterday they were gone in several hours. House finches, starlings, and red-wing blackbirds like them best.\n\n<img src=\"uploads/2023/6ab410ae50.jpg\" width=\"600\" height=\"600\" alt=\"Apples on pitchfork tines\">\n",
+				"content_text": "We set out some of last season's apples for the birds. Yesterday they were gone in several hours. House finches, starlings, and red-wing blackbirds like them best.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/6ab410ae50.jpg\" width=\"600\" height=\"600\" alt=\"Apples on pitchfork tines\">\n",
 				"date_published": "2023-02-09T11:55:43-08:00",
 				"url": "https://palousegeo.com/2023/02/09/we-set-out.html",
 				"tags": ["Quick thoughts"]
@@ -982,7 +991,7 @@
 				"id": "http://palousegeo.micro.blog/2023/02/06/ms-bean-will.html",
 				
 				"content_html": "<p>Ms. Bean will often come find me when I am working in my study upstairs. Sometimes my wife will send her up to get me for some chore, but often she just comes up to see me. She demands an ear rub and then lies on the floor until I am finished.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ms. Bean will often come find me when I am working in my study upstairs. Sometimes my wife will send her up to get me for some chore, but often she just comes up to see me. She demands an ear rub and then lies on the floor until I am finished.\n\n<img src=\"uploads/2023/9520d08b05.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_text": "Ms. Bean will often come find me when I am working in my study upstairs. Sometimes my wife will send her up to get me for some chore, but often she just comes up to see me. She demands an ear rub and then lies on the floor until I am finished.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/9520d08b05.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-06T16:36:17-08:00",
 				"url": "https://palousegeo.com/2023/02/06/ms-bean-will.html",
 				"tags": ["Quick thoughts"]
@@ -1063,7 +1072,7 @@
 				"id": "http://palousegeo.micro.blog/2022/12/21/between-the-storms.html",
 				
 				"content_html": "<p>Between the storms.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Between the storms.\n\n<img src=\"uploads/2022/e2373c733c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Between the storms.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/e2373c733c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-21T09:46:10-08:00",
 				"url": "https://palousegeo.com/2022/12/21/between-the-storms.html",
 				"tags": ["Quick thoughts"]
@@ -1072,7 +1081,7 @@
 				"id": "http://palousegeo.micro.blog/2022/12/20/a-huge-willow.html",
 				
 				"content_html": "<p>A huge willow after the ice fog lifted. If you look at the center of the tree you can see a major branch that split.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A huge willow after the ice fog lifted. If you look at the center of the tree you can see a major branch that split.\n\n<img src=\"uploads/2022/fc9121f199.jpg\" width=\"600\" height=\"599\" alt=\"frosted willow tree\">\n",
+				"content_text": "A huge willow after the ice fog lifted. If you look at the center of the tree you can see a major branch that split.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/fc9121f199.jpg\" width=\"600\" height=\"599\" alt=\"frosted willow tree\">\n",
 				"date_published": "2022-12-20T17:21:03-08:00",
 				"url": "https://palousegeo.com/2022/12/20/a-huge-willow.html",
 				"tags": ["Quick thoughts"]
@@ -1081,7 +1090,7 @@
 				"id": "http://palousegeo.micro.blog/2022/12/19/roof-socks.html",
 				"title": "Roof Socks",
 				"content_html": "<p>We have some heavy snow predicted for the next few days, so I decided it was time to refresh the &ldquo;roof socks&rdquo;. There are a couple of places on the roof where snow and ice accumulate forming ice dams. I&rsquo;ve found that tube socks filled with eco-friendly ice melt help prevent the problem.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We have some heavy snow predicted for the next few days, so I decided it was time to refresh the \"roof socks\". There are a couple of places on the roof where snow and ice accumulate forming ice dams. I've found that tube socks filled with eco-friendly ice melt help prevent the problem.\n\n<img src=\"uploads/2022/e995ed0cec.jpg\" width=\"599\" height=\"600\" alt=\"roof socks\">\n",
+				"content_text": "We have some heavy snow predicted for the next few days, so I decided it was time to refresh the \"roof socks\". There are a couple of places on the roof where snow and ice accumulate forming ice dams. I've found that tube socks filled with eco-friendly ice melt help prevent the problem.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/e995ed0cec.jpg\" width=\"599\" height=\"600\" alt=\"roof socks\">\n",
 				"date_published": "2022-12-19T12:35:42-08:00",
 				"url": "https://palousegeo.com/2022/12/19/roof-socks.html",
 				"tags": ["Longer Posts"]
@@ -1108,7 +1117,7 @@
 				"id": "http://palousegeo.micro.blog/2022/12/18/elderberry-branches-after.html",
 				
 				"content_html": "<p>Elderberry branches after a couple of days of ice fog.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Elderberry branches after a couple of days of ice fog.\n\n<img src=\"uploads/2022/ae83a03dd1.jpg\" width=\"600\" height=\"600\" alt=\"ice on branch\">\n",
+				"content_text": "Elderberry branches after a couple of days of ice fog.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/ae83a03dd1.jpg\" width=\"600\" height=\"600\" alt=\"ice on branch\">\n",
 				"date_published": "2022-12-18T16:04:40-08:00",
 				"url": "https://palousegeo.com/2022/12/18/elderberry-branches-after.html",
 				"tags": ["Quick thoughts"]
@@ -1117,7 +1126,7 @@
 				"id": "http://palousegeo.micro.blog/2022/12/05/this-is-the.html",
 				
 				"content_html": "<p>This is the extent of my holiday decorating this year. I spent more time tracking down dead light bulbs than hanging the lights. Still, I enjoy seeing them when I step out to do the evening chores.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is the extent of my holiday decorating this year. I spent more time tracking down dead light bulbs than hanging the lights. Still, I enjoy seeing them when I step out to do the evening chores.\n\n<img src=\"uploads/2022/fbf8d8bc70.jpg\" width=\"450\" height=\"600\" alt=\"Holiday lights on tree\">\n",
+				"content_text": "This is the extent of my holiday decorating this year. I spent more time tracking down dead light bulbs than hanging the lights. Still, I enjoy seeing them when I step out to do the evening chores.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/fbf8d8bc70.jpg\" width=\"450\" height=\"600\" alt=\"Holiday lights on tree\">\n",
 				"date_published": "2022-12-05T08:08:39-08:00",
 				"url": "https://palousegeo.com/2022/12/05/this-is-the.html",
 				"tags": ["Quick thoughts"]
@@ -1207,7 +1216,7 @@
 				"id": "http://palousegeo.micro.blog/2022/11/22/farm-animals-out.html",
 				
 				"content_html": "<p>Farm animals out for a <strong>graze</strong>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Farm animals out for a **graze**.\n\n<img src=\"uploads/2022/60067c813d.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2022/a75c3202b2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Farm animals out for a **graze**.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/60067c813d.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/69605/2022/a75c3202b2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-22T09:35:36-08:00",
 				"url": "https://palousegeo.com/2022/11/22/farm-animals-out.html",
 				"tags": ["Microblogvember","Quick thoughts"]
@@ -1216,7 +1225,7 @@
 				"id": "http://palousegeo.micro.blog/2022/11/21/on-these-unusually.html",
 				
 				"content_html": "<p>On these unusually cold November mornings I have to break up the <strong>ice</strong> on the chickens' water bucket. (Although I see that they didn&rsquo;t wait around for me.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On these unusually cold November mornings I have to break up the **ice** on the chickens' water bucket. (Although I see that they didn't wait around for me.)\n\n<img src=\"uploads/2022/430986ff30.jpg\" width=\"599\" height=\"600\" alt=\"frozen bucket of water\">\n",
+				"content_text": "On these unusually cold November mornings I have to break up the **ice** on the chickens' water bucket. (Although I see that they didn't wait around for me.)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/430986ff30.jpg\" width=\"599\" height=\"600\" alt=\"frozen bucket of water\">\n",
 				"date_published": "2022-11-21T09:50:01-08:00",
 				"url": "https://palousegeo.com/2022/11/21/on-these-unusually.html",
 				"tags": ["Microblogvember","Quick thoughts"]
@@ -1234,7 +1243,7 @@
 				"id": "http://palousegeo.micro.blog/2022/11/20/every-morning-i.html",
 				
 				"content_html": "<p>Every morning I <strong>repeat</strong> the same farm chores, but I also take notice of the beauty of the early morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Every morning I **repeat** the same farm chores, but I also take notice of the beauty of the early morning.\n\n<img src=\"uploads/2022/237bf78186.jpg\" width=\"600\" height=\"600\" alt=\"early morning landscape\">\n",
+				"content_text": "Every morning I **repeat** the same farm chores, but I also take notice of the beauty of the early morning.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/237bf78186.jpg\" width=\"600\" height=\"600\" alt=\"early morning landscape\">\n",
 				"date_published": "2022-11-20T09:27:32-08:00",
 				"url": "https://palousegeo.com/2022/11/20/every-morning-i.html",
 				"tags": ["Microblogvember","Quick thoughts"]
@@ -1252,7 +1261,7 @@
 				"id": "http://palousegeo.micro.blog/2022/11/18/this-mystery-tire.html",
 				
 				"content_html": "<p>This mystery <strong>tire</strong> showed up at our place several years ago. I assumed it belonged to our son-in-law, who was storing some things at our place as they moved to a new house. When I recently asked if he wanted it back, he said it wasn&rsquo;t his.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This mystery **tire** showed up at our place several years ago. I assumed it belonged to our son-in-law, who was storing some things at our place as they moved to a new house. When I recently asked if he wanted it back, he said it wasn't his.\n\n\n\n<img src=\"uploads/2022/c4dce1f800.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "This mystery **tire** showed up at our place several years ago. I assumed it belonged to our son-in-law, who was storing some things at our place as they moved to a new house. When I recently asked if he wanted it back, he said it wasn't his.\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/c4dce1f800.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2022-11-18T16:57:52-08:00",
 				"url": "https://palousegeo.com/2022/11/18/this-mystery-tire.html",
 				"tags": ["Microblogvember","Quick thoughts"]
@@ -1261,7 +1270,7 @@
 				"id": "http://palousegeo.micro.blog/2022/11/17/we-use-lots.html",
 				
 				"content_html": "<p>We use lots of rain <strong>barrel</strong>s for watering the gardens on our farm.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We use lots of rain **barrel**s for watering the gardens on our farm.\n\n\n<img src=\"uploads/2022/77841cd2fd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "We use lots of rain **barrel**s for watering the gardens on our farm.\n\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/77841cd2fd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-17T18:19:45-08:00",
 				"url": "https://palousegeo.com/2022/11/17/we-use-lots.html",
 				"tags": ["Microblogvember","Quick thoughts"]
@@ -1297,7 +1306,7 @@
 				"id": "http://palousegeo.micro.blog/2022/11/13/although-i-tried.html",
 				
 				"content_html": "<p>Although I tried to <strong>adjust</strong> my technique, I still haven&rsquo;t found the best method for extracting walnuts from their shells.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Although I tried to **adjust** my technique, I still haven't found the best method for extracting walnuts from their shells.\n\n<img src=\"uploads/2022/751d827201.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Although I tried to **adjust** my technique, I still haven't found the best method for extracting walnuts from their shells.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/751d827201.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-13T16:22:22-08:00",
 				"url": "https://palousegeo.com/2022/11/13/although-i-tried.html",
 				"tags": ["Microblogvember","Quick thoughts"]
@@ -1342,7 +1351,7 @@
 				"id": "http://palousegeo.micro.blog/2022/11/10/it-is-a.html",
 				
 				"content_html": "<p>It is a beautiful morning for a stroll across the Palouse prairie in southeastern Washington state.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It is a beautiful morning for a stroll across the Palouse prairie in southeastern Washington state.\n\n<img src=\"uploads/2022/0ff7a1c437.jpg\" width=\"600\" height=\"450\" alt=\"Palouse prairie in SE Washington state\">\n",
+				"content_text": "It is a beautiful morning for a stroll across the Palouse prairie in southeastern Washington state.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/0ff7a1c437.jpg\" width=\"600\" height=\"450\" alt=\"Palouse prairie in SE Washington state\">\n",
 				"date_published": "2022-11-10T12:04:02-08:00",
 				"url": "https://palousegeo.com/2022/11/10/it-is-a.html",
 				"tags": ["Quick thoughts"]
@@ -1378,7 +1387,7 @@
 				"id": "http://palousegeo.micro.blog/2022/11/07/we-have-a.html",
 				
 				"content_html": "<p>We have a green ash tree out our window that attracts a wide variety of bird species. Today I snapped a photo of a female downy woodpecker on the trunk.  🐦</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We have a green ash tree out our window that attracts a wide variety of bird species. Today I snapped a photo of a female downy woodpecker on the trunk.  🐦\n\n<img src=\"uploads/2022/6962d586ed.jpg\" width=\"450\" height=\"600\" alt=\"Downy woodpecker\">\n",
+				"content_text": "We have a green ash tree out our window that attracts a wide variety of bird species. Today I snapped a photo of a female downy woodpecker on the trunk.  🐦\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/6962d586ed.jpg\" width=\"450\" height=\"600\" alt=\"Downy woodpecker\">\n",
 				"date_published": "2022-11-07T16:29:59-08:00",
 				"url": "https://palousegeo.com/2022/11/07/we-have-a.html",
 				"tags": ["Quick thoughts"]
@@ -1405,7 +1414,7 @@
 				"id": "http://palousegeo.micro.blog/2022/11/05/our-favorite-plum.html",
 				
 				"content_html": "<p>Our favorite plum tree took a hard hit in last night’s wind storm.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our favorite plum tree took a hard hit in last night’s wind storm.\n\n\n<img src=\"uploads/2022/d0de589763.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Our favorite plum tree took a hard hit in last night’s wind storm.\n\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/d0de589763.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-05T15:35:18-08:00",
 				"url": "https://palousegeo.com/2022/11/05/our-favorite-plum.html",
 				"tags": ["Quick thoughts"]
@@ -1414,7 +1423,7 @@
 				"id": "http://palousegeo.micro.blog/2022/11/03/this-year-our.html",
 				
 				"content_html": "<p>This year our autumn lasted less than two weeks.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This year our autumn lasted less than two weeks.\n\n<img src=\"uploads/2022/3459fa7659.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "This year our autumn lasted less than two weeks.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/3459fa7659.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-03T16:28:42-08:00",
 				"url": "https://palousegeo.com/2022/11/03/this-year-our.html",
 				"tags": ["Quick thoughts"]
@@ -1423,7 +1432,7 @@
 				"id": "http://palousegeo.micro.blog/2022/06/09/i-replaced-a.html",
 				
 				"content_html": "<p>I replaced a picket fence I built years ago with a rail fence. The rails are 100+ year old siding boards from a farm shed I dismantled. I trimmed the edges and hand planned the faces before painting and installing.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I replaced a picket fence I built years ago with a rail fence. The rails are 100+ year old siding boards from a farm shed I dismantled. I trimmed the edges and hand planned the faces before painting and installing. \n\n<img src=\"uploads/2022/25b94c81f0.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/a7bbf7ccd1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I replaced a picket fence I built years ago with a rail fence. The rails are 100+ year old siding boards from a farm shed I dismantled. I trimmed the edges and hand planned the faces before painting and installing. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/25b94c81f0.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/69605/2022/a7bbf7ccd1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-09T09:41:58-08:00",
 				"url": "https://palousegeo.com/2022/06/09/i-replaced-a.html",
 				"tags": ["Quick thoughts"]
@@ -1432,7 +1441,7 @@
 				"id": "http://palousegeo.micro.blog/2022/06/09/this-thunderstorm-barely.html",
 				
 				"content_html": "<p>This thunderstorm barely missed us.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This thunderstorm barely missed us. \n\n<img src=\"uploads/2022/5b29e5c12d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "This thunderstorm barely missed us. \n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/5b29e5c12d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-09T09:32:19-08:00",
 				"url": "https://palousegeo.com/2022/06/09/this-thunderstorm-barely.html",
 				"tags": ["Quick thoughts"]
@@ -1441,7 +1450,7 @@
 				"id": "http://palousegeo.micro.blog/2022/06/02/101743.html",
 				
 				"content_html": "<p>The trellises for the beans are up. 🌱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The trellises for the beans are up. 🌱\n\n<img src=\"uploads/2022/aec6360d5e.jpg\" />\n",
+				"content_text": "The trellises for the beans are up. 🌱\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/aec6360d5e.jpg\" />\n",
 				"date_published": "2022-06-02T09:17:43-08:00",
 				"url": "https://palousegeo.com/2022/06/02/101743.html",
 				"tags": ["Quick thoughts"]
@@ -1450,7 +1459,7 @@
 				"id": "http://palousegeo.micro.blog/2022/06/02/columbine-from-the.html",
 				
 				"content_html": "<p>Columbine from the garden.🌱\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "Columbine from the garden.🌱\n<img src=\"uploads/2022/89add08171.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Columbine from the garden.🌱\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/89add08171.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-02T08:54:28-08:00",
 				"url": "https://palousegeo.com/2022/06/02/columbine-from-the.html",
 				"tags": ["Quick thoughts"]
@@ -1477,7 +1486,7 @@
 				"id": "http://palousegeo.micro.blog/2022/05/25/our-hiking-companions.html",
 				
 				"content_html": "<p>Our hiking companions are tired of having their pictures taken. 🐕</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our hiking companions are tired of having their pictures taken. 🐕\n\n<img src=\"uploads/2022/464ab66e1e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Our hiking companions are tired of having their pictures taken. 🐕\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/464ab66e1e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-25T09:04:00-08:00",
 				"url": "https://palousegeo.com/2022/05/25/our-hiking-companions.html",
 				"tags": ["Quick thoughts"]
@@ -1486,7 +1495,7 @@
 				"id": "http://palousegeo.micro.blog/2022/05/25/this-is-a.html",
 				
 				"content_html": "<p>This is a view from our hike yesterday in McCroskey State Park, along the Washington-Idaho border. 🥾</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is a view from our hike yesterday in McCroskey State Park, along the Washington-Idaho border. 🥾\n\n<img src=\"uploads/2022/bd779784ff.jpg\" width=\"600\" height=\"450\" alt=\"view from McCroskey Park\" />\n",
+				"content_text": "This is a view from our hike yesterday in McCroskey State Park, along the Washington-Idaho border. 🥾\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/bd779784ff.jpg\" width=\"600\" height=\"450\" alt=\"view from McCroskey Park\" />\n",
 				"date_published": "2022-05-25T08:46:00-08:00",
 				"url": "https://palousegeo.com/2022/05/25/this-is-a.html",
 				"tags": ["🥾 Hiking","Quick thoughts"]
@@ -1495,7 +1504,7 @@
 				"id": "http://palousegeo.micro.blog/2022/05/20/my-wife-read.html",
 				
 				"content_html": "<p>My wife read about someone who keeps deer out of the garden by running a single strand of fishing line around the perimeter 30 inches high. I already had netting up, but I’m trying the line for the gate openings. 🌱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My wife read about someone who keeps deer out of the garden by running a single strand of fishing line around the perimeter 30 inches high. I already had netting up, but I’m trying the line for the gate openings. 🌱\n\n<img src=\"uploads/2022/73bec6adc2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My wife read about someone who keeps deer out of the garden by running a single strand of fishing line around the perimeter 30 inches high. I already had netting up, but I’m trying the line for the gate openings. 🌱\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/73bec6adc2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-20T09:30:41-08:00",
 				"url": "https://palousegeo.com/2022/05/20/my-wife-read.html",
 				"tags": ["Quick thoughts"]
@@ -1504,7 +1513,7 @@
 				"id": "http://palousegeo.micro.blog/2022/05/19/i-found-this.html",
 				
 				"content_html": "<p>I found this 15 cm painted turtle in the middle of the road while on a walk along the wheat fields near our home. I helped it continue its journey more safely.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I found this 15 cm painted turtle in the middle of the road while on a walk along the wheat fields near our home. I helped it continue its journey more safely.\n\n<img src=\"uploads/2022/e7ac9d7674.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I found this 15 cm painted turtle in the middle of the road while on a walk along the wheat fields near our home. I helped it continue its journey more safely.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/e7ac9d7674.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-19T13:00:01-08:00",
 				"url": "https://palousegeo.com/2022/05/19/i-found-this.html",
 				"tags": ["Quick thoughts"]
