@@ -7,10 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2024/04/06/taken-on-a.html",
+				
+				"content_html": "<p>Taken on a <strong>windy</strong> day at beach</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Taken on a **windy** day at beach\n\n<img src=\"uploads/2024/d406634d2e.jpg\" width=\"450\" height=\"600\" alt=\"Two dogs at the beach \">\n",
+				"date_published": "2024-04-06T20:00:03-07:00",
+				"url": "https://palousegeo.com/2024/04/06/taken-on-a.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2024/04/05/our-orchard-looked.html",
+				
+				"content_html": "<p>Our orchard looked <strong>serene</strong> after last night’s snowfall.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Our orchard looked **serene** after last night’s snowfall.\n\n<img src=\"uploads/2024/b498cc19ec.jpg\" width=\"450\" height=\"600\" alt=\"Early morning view of trees after a snowfall \">\n",
+				"date_published": "2024-04-05T18:42:44-07:00",
+				"url": "https://palousegeo.com/2024/04/05/our-orchard-looked.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2024/04/04/hiding-in-the.html",
+				
+				"content_html": "<p>Hiding in the <strong>foliage</strong></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hiding in the **foliage**\n\n<img src=\"uploads/2024/16ea8c35bb.jpg\" width=\"450\" height=\"600\" alt=\"Raccoon in tall grass\">\n",
+				"date_published": "2024-04-04T21:22:29-07:00",
+				"url": "https://palousegeo.com/2024/04/04/hiding-in-the.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2024/04/02/april-photoblogging-challenge.html",
+				
+				"content_html": "<p>April Photoblogging Challenge Day 2: <strong>flower</strong></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "April Photoblogging Challenge Day 2: **flower**\n\n<img src=\"uploads/2024/fc326a1975.jpg\" width=\"600\" height=\"600\" alt=\"Clematis flower\">\n",
+				"date_published": "2024-04-02T08:08:21-07:00",
+				"url": "https://palousegeo.com/2024/04/02/april-photoblogging-challenge.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2024/04/01/april-photoblogging-challenge.html",
 				
-				"content_html": "<p>April Photoblogging Challenge Day 1: <strong>toy</strong>\nThis dog toy lost its stuffing long ago, but Kessie still gets it out of the toy basket every day.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "April Photoblogging Challenge Day 1: **toy**\nThis dog toy lost its stuffing long ago, but Kessie still gets it out of the toy basket every day.\n\n<img src=\"uploads/2024/2a38832e26.jpg\" width=\"450\" height=\"600\" alt=\"Border collie playing with a toy\"><img src=\"uploads/2024/96550760de.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>April Photoblogging Challenge Day 1: <strong>toy</strong>\nThis dog toy lost its stuffing long ago, but Kessie still gets it out of the toy basket every day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "April Photoblogging Challenge Day 1: **toy**\nThis dog toy lost its stuffing long ago, but Kessie still gets it out of the toy basket every day.\n\n<img src=\"uploads/2024/2a38832e26.jpg\" width=\"450\" height=\"600\" alt=\"Border collie playing with a toy\">\n",
 				"date_published": "2024-04-01T20:52:10-07:00",
 				"url": "https://palousegeo.com/2024/04/01/april-photoblogging-challenge.html",
 				"tags": ["Quick thoughts"]
