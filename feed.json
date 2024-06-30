@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2024/06/29/we-have-alot.html",
+				
+				"content_html": "<p>We have alot of canola in bloom around us this year.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We have alot of canola in bloom around us this year.\n\n<img src=\"uploads/2024/img-2206.jpeg\" width=\"600\" height=\"800\" alt=\"canola field in bloom \">\n",
+				"date_published": "2024-06-29T20:34:49-07:00",
+				"url": "https://palousegeo.com/2024/06/29/we-have-alot.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2024/04/07/i-spent-the.html",
 				
 				"content_html": "<p>I spent the day installing new flooring in our house. I found the work left me with a sense of <strong>well being</strong> and satisfaction.</p>\n<!-- raw HTML omitted -->\n",
@@ -46,7 +55,7 @@
 				"id": "http://palousegeo.micro.blog/2024/04/02/april-photoblogging-challenge.html",
 				
 				"content_html": "<p>April Photoblogging Challenge Day 2: <strong>flower</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "April Photoblogging Challenge Day 2: **flower**\n\n<img src=\"uploads/2024/fc326a1975.jpg\" width=\"600\" height=\"600\" alt=\"Clematis flower\">\n",
+				"content_text": "April Photoblogging Challenge Day 2: **flower**\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2024/fc326a1975.jpg\" width=\"600\" height=\"600\" alt=\"Clematis flower\">\n",
 				"date_published": "2024-04-02T08:08:21-07:00",
 				"url": "https://palousegeo.com/2024/04/02/april-photoblogging-challenge.html",
 				"tags": ["Quick thoughts"]
@@ -55,7 +64,7 @@
 				"id": "http://palousegeo.micro.blog/2024/04/01/april-photoblogging-challenge.html",
 				
 				"content_html": "<p>April Photoblogging Challenge Day 1: <strong>toy</strong>\nThis dog toy lost its stuffing long ago, but Kessie still gets it out of the toy basket every day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "April Photoblogging Challenge Day 1: **toy**\nThis dog toy lost its stuffing long ago, but Kessie still gets it out of the toy basket every day.\n\n<img src=\"uploads/2024/2a38832e26.jpg\" width=\"450\" height=\"600\" alt=\"Border collie playing with a toy\">\n",
+				"content_text": "April Photoblogging Challenge Day 1: **toy**\nThis dog toy lost its stuffing long ago, but Kessie still gets it out of the toy basket every day.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2024/2a38832e26.jpg\" width=\"450\" height=\"600\" alt=\"Border collie playing with a toy\">\n",
 				"date_published": "2024-04-01T20:52:10-07:00",
 				"url": "https://palousegeo.com/2024/04/01/april-photoblogging-challenge.html",
 				"tags": ["Quick thoughts"]
