@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2024/07/31/wild-days-in.html",
+				
+				"content_html": "<p>Wild days in the inland northwest.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wild days in the inland northwest.\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"416\" alt=\"Map of wildfires in Washington, Oregon, and Idaho.\">\n",
+				"date_published": "2024-07-31T10:16:03-07:00",
+				"url": "https://palousegeo.com/2024/07/31/wild-days-in.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2024/07/22/voting.html",
 				"title": "Voting",
 				"content_html": "<p>My wife and I spent an enjoyable couple of hours sitting on our patio and discussing our choices for office on the Washington State primary ballot. There are a large number of candidates running for state and federal offices. In Washington the top two candidates in the primary for each office go on to the general election without regard to political affiliation. After our discussion we filled out our ballots and took them out to the mailbox. This is a relaxed and efficient way to vote.</p>\n",
