@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2024/09/30/the-temperature-was.html",
+				
+				"content_html": "<p>The temperature was down to 25° last night. The gardening season is done.</p>\n",
+				"content_text": "The temperature was down to 25° last night. The gardening season is done.\n",
+				"date_published": "2024-09-30T16:46:30-07:00",
+				"url": "https://palousegeo.com/2024/09/30/the-temperature-was.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2024/09/29/mother-nature-put.html",
+				
+				"content_html": "<p>Mother Nature put on a sky show this morning while I was doing chores.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mother Nature put on a sky show this morning while I was doing chores.\n\n<img src=\"uploads/2024/e4425dda-6b45-4de5-813a-a6d62a912bf9.jpg\" width=\"600\" height=\"450\" alt=\"Pretty sunrise over a farm\">\n\n",
+				"date_published": "2024-09-29T08:46:12-07:00",
+				"url": "https://palousegeo.com/2024/09/29/mother-nature-put.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2024/09/25/dust-storm-imminent.html",
+				
+				"content_html": "<p>Dust storm imminent.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dust storm imminent.\r\n\r\n\n\n<img src=\"uploads/2024/img-2259.jpeg\" width=\"600\" height=\"450\" alt=\"Dust storm about to hit rural farm\">\n",
+				"date_published": "2024-09-25T16:32:59-07:00",
+				"url": "https://palousegeo.com/2024/09/25/dust-storm-imminent.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2024/09/24/in-todays-mail.html",
+				
+				"content_html": "<p>In today&rsquo;s mail my wife received a letter from President Biden. I received a toy catalog from Walmart.</p>\n",
+				"content_text": "In today's mail my wife received a letter from President Biden. I received a toy catalog from Walmart.\r\n\r\n",
+				"date_published": "2024-09-24T16:59:26-07:00",
+				"url": "https://palousegeo.com/2024/09/24/in-todays-mail.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2024/09/24/it-occurred-to.html",
+				
+				"content_html": "<p>It occurred to me that I spend more time thinking about writing than I spend writing. I need to reverse that.</p>\n",
+				"content_text": "It occurred to me that I spend more time thinking about writing than I spend writing. I need to reverse that.\n",
+				"date_published": "2024-09-24T10:04:36-07:00",
+				"url": "https://palousegeo.com/2024/09/24/it-occurred-to.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2024/09/07/finished-reading-still.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781662516801\">Still the Sun</a> by Charlie N Holmberg 📚I really enjoyed this book. While the main character was solving the mystery that made up the plot, I was trying to solve the mystery of the main character. It came to a satisfying ending.</p>\n",
@@ -28,7 +73,7 @@
 				"id": "http://palousegeo.micro.blog/2024/07/31/wild-days-in.html",
 				
 				"content_html": "<p>Wild days in the inland northwest.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wild days in the inland northwest.\n\n<img src=\"uploads/2024/image.png\" width=\"600\" height=\"416\" alt=\"Map of wildfires in Washington, Oregon, and Idaho.\">\n",
+				"content_text": "Wild days in the inland northwest.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2024/image.png\" width=\"600\" height=\"416\" alt=\"Map of wildfires in Washington, Oregon, and Idaho.\">\n",
 				"date_published": "2024-07-31T10:16:03-07:00",
 				"url": "https://palousegeo.com/2024/07/31/wild-days-in.html",
 				"tags": ["Quick thoughts"]
@@ -46,7 +91,7 @@
 				"id": "http://palousegeo.micro.blog/2024/06/29/we-have-alot.html",
 				
 				"content_html": "<p>We have alot of canola in bloom around us this year.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We have alot of canola in bloom around us this year.\n\n<img src=\"uploads/2024/img-2206.jpeg\" width=\"600\" height=\"800\" alt=\"canola field in bloom \">\n",
+				"content_text": "We have alot of canola in bloom around us this year.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2024/img-2206.jpeg\" width=\"600\" height=\"800\" alt=\"canola field in bloom \">\n",
 				"date_published": "2024-06-29T20:34:49-07:00",
 				"url": "https://palousegeo.com/2024/06/29/we-have-alot.html",
 				"tags": ["Quick thoughts"]
