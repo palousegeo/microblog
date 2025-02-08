@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2025/02/08/just-sent-my-first-message.html",
+				
+				"content_html": "<p>Just sent my first message to our new congressional representative. I have a feeling many more will follow. ☹️</p>\n",
+				"content_text": "Just sent my first message to our new congressional representative. I have a feeling many more will follow. ☹️\n",
+				"date_published": "2025-02-08T12:28:30-08:00",
+				"url": "https://palousegeo.com/2025/02/08/just-sent-my-first-message.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2025/02/04/finished-reading-the-stone-witch.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780369749840\">The Stone Witch of Florence</a> by Anna Rasche 📚This is a well researched and well written fantasy that takes place during the plague in Florence in the 14th century.</p>\n",
+				"content_text": "Finished reading: [The Stone Witch of Florence](https://micro.blog/books/9780369749840) by Anna Rasche 📚This is a well researched and well written fantasy that takes place during the plague in Florence in the 14th century.\n",
+				"date_published": "2025-02-04T12:22:26-08:00",
+				"url": "https://palousegeo.com/2025/02/04/finished-reading-the-stone-witch.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2025/02/02/the-sun-caught-this-patch.html",
+				
+				"content_html": "<p>The sun caught this patch of Lunaria on our hike.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The sun caught this patch of Lunaria on our hike.\n\n<img src=\"uploads/2025/f9792e8a81.jpg\" width=\"450\" height=\"600\" alt=\"Sunlight on a patch of Lunaria\">\n",
+				"date_published": "2025-02-02T10:54:04-08:00",
+				"url": "https://palousegeo.com/2025/02/02/the-sun-caught-this-patch.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2025/01/31/finished-listening-to-fourth-wing.html",
 				
 				"content_html": "<p>Finished listening to: <a href=\"https://micro.blog/books/9781649374080\">Fourth Wing</a> by Rebecca Yarros 📚🎧. This is the first of a trilogy. I thought it was an exciting romantic (explicit) fantasy. I listened to it as a two-part dramatic presentation through a deal I got from Chirp Books. I plan to read or listen to the next two installments.</p>\n",
@@ -28,7 +55,7 @@
 				"id": "http://palousegeo.micro.blog/2025/01/26/old-house-dilemma-the-drain.html",
 				
 				"content_html": "<p>Old house dilemma: the drain pipe from the kitchen developed a leak. Unfortunately, it’s between the two pipes. My daughter (home renovator) suggested silicone tape, and it worked.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Old house dilemma: the drain pipe from the kitchen developed a leak. Unfortunately, it’s between the two pipes. My daughter (home renovator) suggested silicone tape, and it worked.\n\n<img src=\"uploads/2025/img-2367.jpeg\" width=\"450\" height=\"600\" alt=\"Drain pipe repaired with silicone tape \">\n",
+				"content_text": "Old house dilemma: the drain pipe from the kitchen developed a leak. Unfortunately, it’s between the two pipes. My daughter (home renovator) suggested silicone tape, and it worked.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2025/img-2367.jpeg\" width=\"450\" height=\"600\" alt=\"Drain pipe repaired with silicone tape \">\n",
 				"date_published": "2025-01-26T07:29:53-08:00",
 				"url": "https://palousegeo.com/2025/01/26/old-house-dilemma-the-drain.html",
 				"tags": ["Quick thoughts"]
