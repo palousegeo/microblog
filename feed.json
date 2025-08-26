@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2025/07/25/my-granddaughter-asked-me-to.html",
+				
+				"content_html": "<p>My granddaughter asked me to show her how to use a slide rule. I still remember 50+ years later. Old guy stuff.</p>\n<p><img src=\"https://palousegeo.com/uploads/2025/image-20250725-180441-c83626d0.jpg\" alt=\"An old slide rule\"></p>\n",
+				"content_text": "My granddaughter asked me to show her how to use a slide rule. I still remember 50+ years later. Old guy stuff.\n\n\n![An old slide rule](https://palousegeo.com/uploads/2025/image-20250725-180441-c83626d0.jpg)\n",
+				"date_published": "2025-07-25T18:04:46-07:00",
+				"url": "https://palousegeo.com/2025/07/25/my-granddaughter-asked-me-to.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2025/07/11/we-got-up-early-this.html",
 				
 				"content_html": "<p>We got up early this morning and paddled our kayaks across the Snake River to pick blackberries. We picked a couple of gallons, paddled back, and were home by noon.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://palousegeo.micro.blog/2025/05/19/there-was-a-beautiful-complete.html",
 				
 				"content_html": "<p>There was a beautiful complete double rainbow late this afternoon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There was a beautiful complete double rainbow late this afternoon.\n\n<img src=\"uploads/2025/img-2441.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "There was a beautiful complete double rainbow late this afternoon.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2025/img-2441.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-05-19T21:40:18-07:00",
 				"url": "https://palousegeo.com/2025/05/19/there-was-a-beautiful-complete.html",
 				"tags": ["Quick thoughts"]
@@ -63,8 +72,8 @@
 			{
 				"id": "http://palousegeo.micro.blog/2025/04/19/i-put-some-of-our.html",
 				
-				"content_html": "<p>I put some of our abundant supply of rocks to good use today.</p>\n<p><img src=\"https://palousegeo.com/uploads/2025/6c86a54ed5.jpg\" alt=\"\"></p>\n",
-				"content_text": "\nI put some of our abundant supply of rocks to good use today.\n\n![](https://palousegeo.com/uploads/2025/6c86a54ed5.jpg)\n",
+				"content_html": "<p>I put some of our abundant supply of rocks to good use today.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/69605/2025/6c86a54ed5.jpg\" alt=\"\"></p>\n",
+				"content_text": "\nI put some of our abundant supply of rocks to good use today.\n\n![](https://cdn.uploads.micro.blog/69605/2025/6c86a54ed5.jpg)\n",
 				"date_published": "2025-04-19T20:38:07-07:00",
 				"url": "https://palousegeo.com/2025/04/19/i-put-some-of-our.html",
 				"tags": ["Quick thoughts"]
