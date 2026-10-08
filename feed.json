@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2026/10/08/october-morning-at-the-farm.html",
+				
+				"content_html": "<p>October morning at The Farm.</p>\n<p><img src=\"uploads/2026/f8540abd75.jpg\" width=\"600\" height=\"450\" alt=\"A peaceful rural scene features a gravel driveway running alongside a fenced grassy field where a horse is grazing, with trees and farm buildings in the background under a clear blue sky.\"><img src=\"uploads/2026/140f9e1b78.jpg\" width=\"450\" height=\"600\" alt=\"A sunlit dirt path covered with fallen leaves winds through trees with autumn foliage, partially shaded by a canopy of yellow and green leaves.\"></p>\n",
+				"content_text": "October morning at The Farm.\n\n<img src=\"uploads/2026/f8540abd75.jpg\" width=\"600\" height=\"450\" alt=\"A peaceful rural scene features a gravel driveway running alongside a fenced grassy field where a horse is grazing, with trees and farm buildings in the background under a clear blue sky.\"><img src=\"uploads/2026/140f9e1b78.jpg\" width=\"450\" height=\"600\" alt=\"A sunlit dirt path covered with fallen leaves winds through trees with autumn foliage, partially shaded by a canopy of yellow and green leaves.\">\n",
+				"date_published": "2026-10-08T10:58:14-07:00",
+				"url": "https://palousegeo.com/2026/10/08/october-morning-at-the-farm.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2026/08/31/finished-reading-hell-bent-by.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250313119/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250313119\">Hell Bent</a> by Leigh Bardugo 📚This is the second book in the series after <a href=\"https://micro.blog/books/9781250313072\">The Ninth House</a>. It was as good as the first. Great characters and power of friendship are what stuck with me.</p>\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://palousegeo.micro.blog/2026/06/06/i-happened-to-look-up.html",
 				
-				"content_html": "<p>I happened to look up as we were covering the garden plants for the night (frost protection).</p>\n<p><img src=\"https://palousegeo.com/uploads/2026/image-20260606-203111-f287b8b1.jpg\" alt=\"Long rows of clouds in an evening sky\"></p>\n",
-				"content_text": "I happened to look up as we were covering the garden plants for the night (frost protection).\n\n![Long rows of clouds in an evening sky](https://palousegeo.com/uploads/2026/image-20260606-203111-f287b8b1.jpg)\n",
+				"content_html": "<p>I happened to look up as we were covering the garden plants for the night (frost protection).</p>\n<p><img src=\"https://cdn.uploads.micro.blog/69605/2026/image-20260606-203111-f287b8b1.jpg\" alt=\"Long rows of clouds in an evening sky\"></p>\n",
+				"content_text": "I happened to look up as we were covering the garden plants for the night (frost protection).\n\n![Long rows of clouds in an evening sky](https://cdn.uploads.micro.blog/69605/2026/image-20260606-203111-f287b8b1.jpg)\n",
 				"date_published": "2026-06-06T20:31:14-07:00",
 				"url": "https://palousegeo.com/2026/06/06/i-happened-to-look-up.html",
 				"tags": ["Quick thoughts"]
