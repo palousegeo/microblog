@@ -1,16 +1,34 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Rick Rupp",
-	"icon": "https://micro.blog/palousegeo/avatar.jpg",
+	"icon": "<no value>",
 	"home_page_url": "https://palousegeo.com/",
 	"feed_url": "https://palousegeo.com/feed.json",
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2026/10/11/finished-reading-the-nation-that.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9798212017817/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9798212017817\">The Nation That Never Was: Reconstructing America&rsquo;s Story</a> by Kermit Roosevelt 📚 This fascinating book argues that today’s American government is not descended from the Declaration of Independence and the 1789 Constitution, but rather from Lincoln’s Gettysburg Address and the reconstruction amendments to the Constitution after the Civil War.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9798212017817/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Nation That Never Was: Reconstructing America's Story](https://micro.blog/books/9798212017817) by Kermit Roosevelt 📚 This fascinating book argues that today’s American government is not descended from the Declaration of Independence and the 1789 Constitution, but rather from Lincoln’s Gettysburg Address and the reconstruction amendments to the Constitution after the Civil War. \n",
+				"date_published": "2026-10-11T17:15:42-07:00",
+				"url": "https://palousegeo.com/2026/10/11/finished-reading-the-nation-that.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
+				"id": "http://palousegeo.micro.blog/2026/10/09/season-change.html",
+				"title": "Season change",
+				"content_html": "<p>Today is one of those days where I acknowledged the changing seasons. The patio umbrellas were packed away. The row cover and bed covers we had been using to extend the gardening season were rolled up and stored. The screen door in front was changed out for glass. The Nash was parked in the machine shed until the next camping season.</p>\n<img src=\"uploads/2026/img-2700.jpg\" alt=\"A Nash RV trailer is stored inside a barn behind a green metal gate with grass in the foreground.\">\n",
+				"content_text": "Today is one of those days where I acknowledged the changing seasons. The patio umbrellas were packed away. The row cover and bed covers we had been using to extend the gardening season were rolled up and stored. The screen door in front was changed out for glass. The Nash was parked in the machine shed until the next camping season.\n\n<img src=\"uploads/2026/img-2700.jpg\" alt=\"A Nash RV trailer is stored inside a barn behind a green metal gate with grass in the foreground.\">\n",
+				"date_published": "2026-10-09T18:04:13-07:00",
+				"url": "https://palousegeo.com/2026/10/09/season-change.html",
+				"tags": ["Longer Posts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2026/10/08/october-morning-at-the-farm.html",
 				
-				"content_html": "<p>October morning at The Farm.</p>\n<p><img src=\"uploads/2026/f8540abd75.jpg\" width=\"600\" height=\"450\" alt=\"A peaceful rural scene features a gravel driveway running alongside a fenced grassy field where a horse is grazing, with trees and farm buildings in the background under a clear blue sky.\"><img src=\"uploads/2026/140f9e1b78.jpg\" width=\"450\" height=\"600\" alt=\"A sunlit dirt path covered with fallen leaves winds through trees with autumn foliage, partially shaded by a canopy of yellow and green leaves.\"></p>\n",
-				"content_text": "October morning at The Farm.\n\n<img src=\"uploads/2026/f8540abd75.jpg\" width=\"600\" height=\"450\" alt=\"A peaceful rural scene features a gravel driveway running alongside a fenced grassy field where a horse is grazing, with trees and farm buildings in the background under a clear blue sky.\"><img src=\"uploads/2026/140f9e1b78.jpg\" width=\"450\" height=\"600\" alt=\"A sunlit dirt path covered with fallen leaves winds through trees with autumn foliage, partially shaded by a canopy of yellow and green leaves.\">\n",
+				"content_html": "<p>October morning at The Farm.</p>\n<p><img src=\"uploads/2026/f8540abd75.jpg\" width=\"600\" height=\"450\" alt=\"A peaceful rural scene features a gravel driveway running alongside a fenced grassy field where a horse is grazing, with trees and farm buildings in the background under a clear blue sky.\"><img src=\"uploads/2026/img-2697.jpg\" width=\"600\" height=\"800\" alt=\"A sunlit gravel path is surrounded by trees with green and yellow leaves, a rusted metal barrel stands on the left side.\"></p>\n",
+				"content_text": "October morning at The Farm.\n\n<img src=\"uploads/2026/f8540abd75.jpg\" width=\"600\" height=\"450\" alt=\"A peaceful rural scene features a gravel driveway running alongside a fenced grassy field where a horse is grazing, with trees and farm buildings in the background under a clear blue sky.\"><img src=\"uploads/2026/img-2697.jpg\" width=\"600\" height=\"800\" alt=\"A sunlit gravel path is surrounded by trees with green and yellow leaves, a rusted metal barrel stands on the left side.\">\n",
 				"date_published": "2026-10-08T10:58:14-07:00",
 				"url": "https://palousegeo.com/2026/10/08/october-morning-at-the-farm.html",
 				"tags": ["Quick thoughts"]
@@ -36,8 +54,8 @@
 			{
 				"id": "http://palousegeo.micro.blog/2026/07/22/i-found-a-friend-while.html",
 				
-				"content_html": "<p>I found a friend while picking raspberries.</p>\n<img src=\"uploads/2026/photo-3628b40d.jpg\" width=\"450\" height=\"600\" alt=\"Garter snake in a raspberry bush.\">\n",
-				"content_text": "I found a friend while picking raspberries.\n\n<img src=\"uploads/2026/photo-3628b40d.jpg\" width=\"450\" height=\"600\" alt=\"Garter snake in a raspberry bush.\">\n",
+				"content_html": "<p>I found a friend while picking raspberries.</p>\n<img src=\"https://cdn.uploads.micro.blog/69605/2026/photo-3628b40d.jpg\" width=\"450\" height=\"600\" alt=\"Garter snake in a raspberry bush.\">\n",
+				"content_text": "I found a friend while picking raspberries.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2026/photo-3628b40d.jpg\" width=\"450\" height=\"600\" alt=\"Garter snake in a raspberry bush.\">\n",
 				"date_published": "2026-07-22T12:35:50-07:00",
 				"url": "https://palousegeo.com/2026/07/22/i-found-a-friend-while.html",
 				"tags": ["Quick thoughts"]
@@ -1305,7 +1323,7 @@
 			{
 				"id": "http://palousegeo.micro.blog/2023/09/11/the-prompt-for.html",
 				
-				"content_html": "<p>The prompt for day 11 of the September Photoblogging Challenge is <strong>retrospect</strong>. \nThe end of the pear harvest for this year.</p>\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1930.jpeg\" width=\"450\" height=\"600\" alt=\"Pear tree and harvested pears\">\n",
+				"content_html": "<p>The prompt for day 11 of the September Photoblogging Challenge is <strong>retrospect</strong>.\nThe end of the pear harvest for this year.</p>\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1930.jpeg\" width=\"450\" height=\"600\" alt=\"Pear tree and harvested pears\">\n",
 				"content_text": "The prompt for day 11 of the September Photoblogging Challenge is **retrospect**. \r\nThe end of the pear harvest for this year.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1930.jpeg\" width=\"450\" height=\"600\" alt=\"Pear tree and harvested pears\">\n",
 				"date_published": "2023-09-11T18:14:18-07:00",
 				"url": "https://palousegeo.com/2023/09/11/the-prompt-for.html",
@@ -1314,7 +1332,7 @@
 			{
 				"id": "http://palousegeo.micro.blog/2023/09/10/the-prompt-for.html",
 				
-				"content_html": "<p>The prompt for day 10 of the September Photoblogging Challenge is <strong>cycle</strong>. \nOld bikes accumulate in this corner of the barn.</p>\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1928.jpeg\" width=\"450\" height=\"600\" alt=\"Bicycles\">\n",
+				"content_html": "<p>The prompt for day 10 of the September Photoblogging Challenge is <strong>cycle</strong>.\nOld bikes accumulate in this corner of the barn.</p>\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1928.jpeg\" width=\"450\" height=\"600\" alt=\"Bicycles\">\n",
 				"content_text": "The prompt for day 10 of the September Photoblogging Challenge is **cycle**. \r\nOld bikes accumulate in this corner of the barn.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1928.jpeg\" width=\"450\" height=\"600\" alt=\"Bicycles\">\n",
 				"date_published": "2023-09-10T18:23:27-07:00",
 				"url": "https://palousegeo.com/2023/09/10/the-prompt-for.html",
@@ -1323,7 +1341,7 @@
 			{
 				"id": "http://palousegeo.micro.blog/2023/09/09/the-prompt-for.html",
 				
-				"content_html": "<p>The prompt for day 9 of the September Photoblogging Challenge is <strong>language</strong>. \nHiking along an old railroad line in E. Washington the railroad mileage markers denote the distance from Chicago</p>\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1326.jpeg\" width=\"450\" height=\"600\" alt=\"Railroad mileage marker\">\n",
+				"content_html": "<p>The prompt for day 9 of the September Photoblogging Challenge is <strong>language</strong>.\nHiking along an old railroad line in E. Washington the railroad mileage markers denote the distance from Chicago</p>\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1326.jpeg\" width=\"450\" height=\"600\" alt=\"Railroad mileage marker\">\n",
 				"content_text": "The prompt for day 9 of the September Photoblogging Challenge is **language**. \r\nHiking along an old railroad line in E. Washington the railroad mileage markers denote the distance from Chicago\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2023/img-1326.jpeg\" width=\"450\" height=\"600\" alt=\"Railroad mileage marker\">\n",
 				"date_published": "2023-09-09T09:07:44-07:00",
 				"url": "https://palousegeo.com/2023/09/09/the-prompt-for.html",
@@ -2016,7 +2034,7 @@
 			{
 				"id": "http://palousegeo.micro.blog/2022/11/21/on-these-unusually.html",
 				
-				"content_html": "<p>On these unusually cold November mornings I have to break up the <strong>ice</strong> on the chickens' water bucket. (Although I see that they didn&rsquo;t wait around for me.)</p>\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/430986ff30.jpg\" width=\"599\" height=\"600\" alt=\"frozen bucket of water\">\n",
+				"content_html": "<p>On these unusually cold November mornings I have to break up the <strong>ice</strong> on the chickens&rsquo; water bucket. (Although I see that they didn&rsquo;t wait around for me.)</p>\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/430986ff30.jpg\" width=\"599\" height=\"600\" alt=\"frozen bucket of water\">\n",
 				"content_text": "On these unusually cold November mornings I have to break up the **ice** on the chickens' water bucket. (Although I see that they didn't wait around for me.)\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2022/430986ff30.jpg\" width=\"599\" height=\"600\" alt=\"frozen bucket of water\">\n",
 				"date_published": "2022-11-21T10:50:01-07:00",
 				"url": "https://palousegeo.com/2022/11/21/on-these-unusually.html",
