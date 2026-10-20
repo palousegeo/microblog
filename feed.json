@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2026/10/20/the-atlantic-has-a-new.html",
+				
+				"content_html": "<p>The Atlantic has a new podcast hosted by David Brooks called <strong>The Permanent Questions</strong>. If you like something that makes you think it’s worth listening to.</p>\n",
+				"content_text": "The Atlantic has a new podcast hosted by David Brooks called **The Permanent Questions**. If you like something that makes you think it’s worth listening to.\n",
+				"date_published": "2026-10-20T11:33:03-07:00",
+				"url": "https://palousegeo.com/2026/10/20/the-atlantic-has-a-new.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2026/10/15/finished-reading-the-theory-of.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9781957352428/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781957352428\">The Theory of Everything: Shadows &amp; Light Book Two (Amaranthe)</a> by G S Jennsen 📚. This is the penultimate novel in the 25-book space opera series I’ve been reading for years. The world building and characters are excellent. I’m looking forward to to the finale in 2027.</p>\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://palousegeo.micro.blog/2026/10/08/october-morning-at-the-farm.html",
 				
-				"content_html": "<p>October morning at The Farm.</p>\n<p><img src=\"uploads/2026/f8540abd75.jpg\" width=\"600\" height=\"450\" alt=\"A peaceful rural scene features a gravel driveway running alongside a fenced grassy field where a horse is grazing, with trees and farm buildings in the background under a clear blue sky.\"><img src=\"uploads/2026/img-2697.jpg\" width=\"600\" height=\"800\" alt=\"A sunlit gravel path is surrounded by trees with green and yellow leaves, a rusted metal barrel stands on the left side.\"></p>\n",
-				"content_text": "October morning at The Farm.\n\n<img src=\"uploads/2026/f8540abd75.jpg\" width=\"600\" height=\"450\" alt=\"A peaceful rural scene features a gravel driveway running alongside a fenced grassy field where a horse is grazing, with trees and farm buildings in the background under a clear blue sky.\"><img src=\"uploads/2026/img-2697.jpg\" width=\"600\" height=\"800\" alt=\"A sunlit gravel path is surrounded by trees with green and yellow leaves, a rusted metal barrel stands on the left side.\">\n",
+				"content_html": "<p>October morning at The Farm.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/69605/2026/f8540abd75.jpg\" width=\"600\" height=\"450\" alt=\"A peaceful rural scene features a gravel driveway running alongside a fenced grassy field where a horse is grazing, with trees and farm buildings in the background under a clear blue sky.\"><img src=\"https://cdn.uploads.micro.blog/69605/2026/img-2697.jpg\" width=\"600\" height=\"800\" alt=\"A sunlit gravel path is surrounded by trees with green and yellow leaves, a rusted metal barrel stands on the left side.\"></p>\n",
+				"content_text": "October morning at The Farm.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2026/f8540abd75.jpg\" width=\"600\" height=\"450\" alt=\"A peaceful rural scene features a gravel driveway running alongside a fenced grassy field where a horse is grazing, with trees and farm buildings in the background under a clear blue sky.\"><img src=\"https://cdn.uploads.micro.blog/69605/2026/img-2697.jpg\" width=\"600\" height=\"800\" alt=\"A sunlit gravel path is surrounded by trees with green and yellow leaves, a rusted metal barrel stands on the left side.\">\n",
 				"date_published": "2026-10-08T10:58:14-07:00",
 				"url": "https://palousegeo.com/2026/10/08/october-morning-at-the-farm.html",
 				"tags": ["Quick thoughts"]
@@ -81,8 +90,8 @@
 			{
 				"id": "http://palousegeo.micro.blog/2026/06/18/todays-strawberry-harvest.html",
 				
-				"content_html": "<p>Today’s strawberry harvest.</p>\n<img src=\"uploads/2026/img-2637.jpg\" alt=\"Three dishes filled with strawberries on a countertop.\">\n",
-				"content_text": "Today’s strawberry harvest.\n\n<img src=\"uploads/2026/img-2637.jpg\" alt=\"Three dishes filled with strawberries on a countertop.\">\n",
+				"content_html": "<p>Today’s strawberry harvest.</p>\n<img src=\"https://cdn.uploads.micro.blog/69605/2026/img-2637.jpg\" alt=\"Three dishes filled with strawberries on a countertop.\">\n",
+				"content_text": "Today’s strawberry harvest.\n\n<img src=\"https://cdn.uploads.micro.blog/69605/2026/img-2637.jpg\" alt=\"Three dishes filled with strawberries on a countertop.\">\n",
 				"date_published": "2026-06-18T06:25:00-07:00",
 				"url": "https://palousegeo.com/2026/06/18/todays-strawberry-harvest.html",
 				"tags": ["Quick thoughts"]
