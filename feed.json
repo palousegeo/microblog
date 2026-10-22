@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://palousegeo.micro.blog/2026/10/22/finished-harvesting-apples-a-portion.html",
+				
+				"content_html": "<p>Finished harvesting apples. A portion of the harvest is shown in the root cellar.</p>\n<img src=\"uploads/2026/ad7268f5-30da-485a-9ab5-49efe3f5986b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Finished harvesting apples. A portion of the harvest is shown in the root cellar. \n\n<img src=\"uploads/2026/ad7268f5-30da-485a-9ab5-49efe3f5986b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-10-22T11:00:24-07:00",
+				"url": "https://palousegeo.com/2026/10/22/finished-harvesting-apples-a-portion.html",
+				"tags": ["Quick thoughts"]
+			},
+			{
 				"id": "http://palousegeo.micro.blog/2026/10/20/the-atlantic-has-a-new.html",
 				
 				"content_html": "<p>The Atlantic has a new podcast hosted by David Brooks called <strong>The Permanent Questions</strong>. If you like something that makes you think it’s worth listening to.</p>\n",
